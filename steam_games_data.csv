@@ -1,0 +1,1001 @@
+appid,name,price,currency,genres,release_date,steam_review_score
+10,Counter-Strike,20.69,BRL,Action,"1 Nov, 2000",88
+30,Day of Defeat,16.99,BRL,Action,"1 May, 2003",79
+70,Half-Life,20.69,BRL,Action,"19 Nov, 1998",96
+80,Counter-Strike: Condition Zero,20.69,BRL,Action,"1 Mar, 2004",65
+100,Counter-Strike: Condition Zero,20.69,BRL,Action,"1 Mar, 2004",65
+130,Half-Life: Blue Shift,16.99,BRL,Action,"1 Jun, 2001",71
+219,Half-Life 2: Demo,,,Action,"1 Dec, 2004",96
+220,Half-Life 2,9.99,USD,Action,"Nov 16, 2004",96
+240,Counter-Strike: Source,10.0,SGD,Action,"1 Nov, 2004",88
+300,Day of Defeat: Source,32.99,BRL,Action,"12 Jul, 2010",80
+380,Half-Life 2: Episode One,,,Action,"1 Jun, 2006",87
+400,Portal,32.99,BRL,Action,"10 Oct, 2007",90
+410,Portal: First Slice,,,Action,"8 May, 2008",90
+420,Half-Life 2: Episode Two,,,Action,"10 Oct, 2007",90
+440,Team Fortress 2,,,"Action, Free To Play","10 Oct, 2007",92
+500,Left 4 Dead,9.99,USD,Action,"Nov 17, 2008",89
+550,Left 4 Dead 2,9.99,USD,Action,"Nov 16, 2009",89
+570,Dota 2,,,"Action, Strategy, Free To Play","9 Jul, 2013",90
+620,Portal 2,32.99,BRL,"Action, Adventure","18 Apr, 2011",95
+630,Alien Swarm,,,"Action, Free To Play","19 Jul, 2010",77
+659,Portal 2,32.99,BRL,"Action, Adventure","18 Apr, 2011",95
+1002,Rag Doll Kung Fu,2.29,BRL,Indie,"12 Oct, 2005",69
+1003,Rag Doll Kung Fu Demo,,,Indie,"12 Oct, 2005",69
+1200,Red Orchestra: Ostfront 41-45,10.89,BRL,Action,"14 Mar, 2006",81
+3800,Advent Rising,9.99,USD,Action,"Sep 14, 2006",70
+3900,Sid Meier's Civilization® IV,4.99,EUR,Strategy,"25 Oct, 2006",94
+3910,Sid Meier's Civilization® III Complete,4.99,EUR,Strategy,"25 Oct, 2006",90
+7000,Tomb Raider: Legend,0.97,EUR,"Action, Adventure","29 Mar, 2007",82
+7890,Men of War™ Demo,,,Strategy,"8 May, 2009",80
+8080,Kane and Lynch: Dead Men™,,,Action,"Dec 13, 2007",67
+8100,Conflict: Denied Ops,5.99,USD,Action,"Feb 8, 2008",58
+8930,Sid Meier's Civilization® V,7.49,EUR,Strategy,"23 Sep, 2010",90
+8980,Borderlands Game of the Year,29.99,EUR,"Action, RPG","31 Aug, 2023",81
+9480,Saints Row 2,9.99,USD,Action,"Jan 7, 2009",72
+10150,Prototype™,109.9,BRL,"Action, Adventure","12 Jun, 2009",79
+10170,Wolfenstein™,,,Action,"19 Aug, 2009",74
+10180,Call of Duty®: Modern Warfare® 2 (2009),109.9,BRL,Action,"11 Nov, 2009",86
+10190,Call of Duty®: Modern Warfare® 2 (2009),109.9,BRL,Action,"11 Nov, 2009",86
+10220,Postal III,20.49,BRL,Action,"17 Feb, 2012",24
+10460,The Club™,27.99,BRL,Action,"20 Feb, 2008",67
+10500,Total War: EMPIRE – Definitive Edition,84.99,BRL,Strategy,"4 Mar, 2009",90
+10620,Empire: Total War™ Demo,,,Strategy,"20 Feb, 2009",90
+10680,Aliens vs. Predator™,27.99,BRL,Action,"16 Feb, 2010",68
+10690,Virtua Tennis 2009,,,"Simulation, Sports","3 Jul, 2009",68
+11000,Loki Demo - Norse Warrior,,,RPG,"5 Oct, 2007",61
+11040,Sherlock Holmes - Nemesis,37.0,BRL,"Adventure, RPG","7 Aug, 2008",71
+11050,Dracula: Origin,37.0,BRL,"Adventure, Casual","7 Aug, 2008",70
+11080,Sherlock Holmes - Nemesis Demo,,,Adventure,"7 Aug, 2008",71
+11090,Dracula Origin Demo,,,Adventure,"7 Aug, 2008",70
+11130,Sherlock Holmes: The Mystery of the Mummy,,,Adventure,"6 Aug, 2009",61
+11140,Sherlock Holmes: The Awakened (2008),37.0,BRL,Adventure,"6 Aug, 2009",72
+11150,Sherlock Holmes: The Silver Earring,37.0,BRL,Adventure,"6 Aug, 2009",68
+11190,Sherlock Holmes versus Jack the Ripper,37.0,BRL,"Adventure, RPG","23 Dec, 2009",73
+11200,Shadowgrounds Survivor,19.99,BRL,Action,"14 Nov, 2007",79
+11220,Shadowgrounds Survivor Demo,,,Action,"15 Feb, 2008",79
+11250,Pacific Storm,26.49,BRL,"Simulation, Strategy","24 Jun, 2008",67
+11260,Pacific Storm Allies,26.49,BRL,"Simulation, Strategy","18 Aug, 2008",60
+11340,Larva Mortus,16.99,BRL,"Action, Indie","19 Mar, 2009",64
+11370,Nikopol: Secrets of the Immortals,16.99,BRL,"Adventure, Indie","30 Jul, 2009",68
+11450,Overlord™,8.49,BRL,RPG,"26 Oct, 2007",81
+11470,Overlord™ Demo,,,RPG,"26 Oct, 2007",81
+11480,Soldiers: Heroes of World War II - Enhanced Edition,16.99,BRL,Strategy,"3 Jul, 2014",77
+11550,Second Sight,20.69,BRL,Action,"8 Apr, 2021",73
+12130,Manhunt,14.99,BRL,Action,"6 Jan, 2011",75
+12150,Max Payne 2: The Fall of Max Payne,14.99,BRL,Action,"4 Jan, 2008",86
+12200,Bully: Scholarship Edition,39.99,BRL,"Action, Adventure","23 Dec, 2010",72
+12210,Grand Theft Auto IV: The Complete Edition,79.0,BRL,"Action, Adventure","24 Mar, 2020",90
+12310,Culpa Innata,19.99,BRL,"Adventure, Casual, RPG","18 Jan, 2008",66
+12320,Sacred Gold,4.99,BRL,"Action, RPG","9 Jul, 2008",74
+12330,Darkstar One,29.99,BRL,Action,"13 Feb, 2008",71
+12360,FlatOut: Ultimate Carnage Collector's Edition,19.99,USD,Racing,"Aug 26, 2008",79
+12400,"Bill ""Spaceman"" Lee Baseball Mogul 2009",,,Sports,"23 Oct, 2008",65
+12420,Perimeter 2: New Earth,4.09,BRL,Strategy,"10 Feb, 2009",43
+12470,Port Royale 2,20.49,BRL,Strategy,"16 Jun, 2009",75
+12500,PuzzleQuest: Challenge of the Warlords,19.99,BRL,Casual,"29 Jan, 2008",84
+12640,Drakensang,16.99,BRL,RPG,"9 Mar, 2009",75
+12810,Overlord II,16.99,BRL,RPG,"23 Jun, 2009",79
+12890,Operation Flashpoint: Dragon Rising Demo,,,Action,"16 Nov, 2009",76
+12900,AudioSurf,32.99,BRL,Indie,"15 Feb, 2008",85
+12910,AudioSurf Demo,,,Indie,"15 Feb, 2008",85
+13000,Ninja Reflex: Steamworks Edition,8.49,BRL,"Casual, Indie","21 Mar, 2008",57
+13010,Ninja Reflex Demo,,,"Indie, Casual","21 Mar, 2008",57
+13140,America's Army 3,,,Action,"17 Jun, 2009",70
+13500,Prince of Persia: Warrior Within™,29.99,BRL,"Action, Adventure","21 Nov, 2008",83
+13510,Tom Clancy's Ghost Recon Advanced Warfighter® 2,,,Action,"15 Jul, 2008",76
+13520,Far Cry®,8.99,BRL,Action,"1 Apr, 2008",89
+13530,Prince of Persia: The Two Thrones™,5.99,BRL,"Action, Adventure","21 Nov, 2008",85
+13540,Tom Clancy's Rainbow Six® Vegas,29.99,BRL,Action,"9 Apr, 2008",85
+13560,Tom Clancy's Splinter Cell®,49.99,BRL,Action,"1 Apr, 2008",91
+13570,Tom Clancy's Splinter Cell Chaos Theory®,29.99,BRL,Action,"27 Aug, 2009",92
+13580,Tom Clancy's Splinter Cell Double Agent®,29.99,BRL,Action,"13 Feb, 2009",80
+13600,Prince of Persia®: The Sands of Time,5.99,BRL,"Action, Adventure","21 Nov, 2008",89
+13620,Tom Clancy's Ghost Recon® Desert Siege™,9.99,BRL,Action,"15 Jul, 2008",82
+13630,Tom Clancy's Ghost Recon® Island Thunder™,9.99,BRL,Action,"15 Jul, 2008",82
+13640,Tom Clancy's Ghost Recon Advanced Warfighter®,,,Action,"15 Jul, 2008",80
+15000,Tom Clancy's Rainbow Six Lockdown™,29.99,BRL,Action,"13 May, 2008",59
+15080,Rayman Raving Rabbids™,29.99,BRL,"Action, Adventure","13 Jun, 2008",58
+15100,Assassin's Creed™: Director's Cut Edition,59.99,BRL,"Action, Adventure","9 Apr, 2008",79
+15120,Tom Clancy's Rainbow Six® Vegas 2,29.99,BRL,Action,"16 Apr, 2008",78
+15130,Beyond Good and Evil™,,,"Action, Adventure","13 May, 2008",83
+15170,Heroes of Might & Magic V,29.99,BRL,Strategy,"13 May, 2008",77
+15190,Brothers in Arms: Road to Hill 30™,29.99,BRL,Action,"13 May, 2008",87
+15200,Silent Hunter®: Wolves of the Pacific,29.99,BRL,Simulation,"13 Jun, 2008",79
+15210,Silent Hunter® III,29.99,BRL,Simulation,"13 Jun, 2008",90
+15220,Blazing Angels® Squadrons of WWII,,,"Action, Simulation","13 May, 2008",65
+17410,Mirror's Edge™,29.99,CAD,"Action, Adventure","14 Jan, 2009",81
+19680,Alice: Madness Returns,14.99,CAD,"Action, Adventure","17 Jun, 2011",75
+25600,Eschalon: Book I,,,"Indie, RPG","10 Feb, 2009",75
+25610,Eschalon: Book I Demo,,,RPG,"11 Feb, 2009",75
+25700,Madballs in Babo:Invasion,10.49,BRL,"Action, Casual, Indie","17 Sep, 2009",79
+25710,Madballs Demo,,,"Action, Casual, Indie","17 Sep, 2009",79
+25800,Europa Universalis III Complete,53.99,BRL,Strategy,"4 Feb, 2009",83
+25806,Europa Universalis III: Heir to the Throne,35.99,BRL,,"15 Dec, 2009",86
+25808,Europa Universalis III: Divine Wind,35.99,BRL,Strategy,"21 Jan, 2011",71
+25830,Knights of Honor,35.99,BRL,Strategy,"4 Feb, 2009",77
+25850,Elven Legacy,16.99,BRL,"RPG, Strategy","7 Apr, 2009",71
+25860,Sword of the Stars: Complete Collection,35.99,BRL,Strategy,"4 Jun, 2010",75
+25890,Hearts of Iron III,35.99,BRL,Strategy,"7 Aug, 2009",77
+25900,King's Bounty: The Legend,23.5,BRL,"RPG, Strategy","1 May, 2009",79
+25910,Supreme Ruler 2020 Gold,7.99,BRL,Strategy,"9 Jul, 2009",65
+25930,East India Company,24.99,BRL,Strategy,"31 Jul, 2009",67
+25980,Majesty 2,35.99,BRL,"Simulation, Strategy","17 Sep, 2009",72
+26000,The Maw,16.99,BRL,"Action, Indie","9 Mar, 2009",75
+26010,The Maw Demo,,,Indie,"13 Mar, 2009",75
+26500,Cogs,12.39,BRL,"Casual, Indie","14 Apr, 2009",73
+26510,Cogs Demo,,,"Strategy, Indie, Casual","14 Apr, 2009",73
+26800,Braid,27.99,BRL,"Casual, Indie, Strategy","10 Apr, 2009",90
+26810,Braid Demo,,,"Strategy, Indie","11 Apr, 2009",90
+26900,Crayon Physics Deluxe,34.99,BRL,"Casual, Indie","6 May, 2009",79
+26910,Crayon Physics Deluxe Demo,,,"Indie, Casual","6 May, 2009",79
+27000,The Path,19.99,BRL,"Adventure, Indie","18 Mar, 2009",79
+27040,The Path - Prologue,,,"Indie, Adventure","8 Jun, 2009",79
+27400,Dangerous High School Girls in Trouble!™,34.99,BRL,"RPG, Indie, Casual","23 Feb, 2009",81
+27610,Mevo and The Grooveriders Demo,,,"Indie, Casual","19 Mar, 2009",72
+28000,Kane & Lynch 2: Dog Days,16.99,BRL,Action,"17 Aug, 2010",66
+28020,Kane & Lynch 2 Demo,,,Action,"26 Jul, 2010",66
+29160,Blueberry Garden,16.99,BRL,"Adventure, Indie","10 Jun, 2009",68
+29170,Blueberry Garden Demo,,,,"10 Jun, 2009",68
+29180,Osmos,20.69,BRL,"Casual, Indie","18 Aug, 2009",80
+29200,Osmos Demo,,,"Indie, Casual","18 Aug, 2009",80
+29640,Aion<sup>®</sup>: Assault on Balaurea™,,,Massively Multiplayer,"22 Sep, 2009",76
+29900,Dark Sector,16.99,BRL,Action,"24 Mar, 2009",66
+31120,"Wallace & Gromit’s Grand Adventures, Episode 3: Muzzled!",,,Adventure,"15 Jun, 2009",75
+31130,"Wallace & Gromit’s Grand Adventures, Episode 4: The Bogey Man",,,Adventure,"30 Jul, 2009",72
+31170,Tales of Monkey Island: Complete Season,50.0,BRL,"Adventure, RPG","7 Jul, 2009",79
+31270,Puzzle Agent,19.99,BRL,"Action, Adventure, Casual","7 Jul, 2010",70
+31280,Poker Night at the Inventory,,,"Casual, Sports","22 Nov, 2010",71
+31290,Back to the Future: The Game,,,Adventure,"23 Dec, 2010",74
+31300,Tunnel Rats,34.99,BRL,Action,"15 May, 2009",30
+31700,Iron Grip: Warlord,,,"Action, Indie","5 Dec, 2008",59
+31710,Iron Grip Warlord Demo,,,"Action, Indie","6 May, 2010",59
+31800,Nancy Drew®: Danger by Design,32.99,BRL,Adventure,"10 Oct, 2009",70
+40400,AI War: Fleet Command,2.49,USD,"Indie, Strategy","Oct 21, 2009",80
+41700,S.T.A.L.K.E.R.: Call of Pripyat,19.99,USD,"Action, RPG","Feb 11, 2010",80
+42890,Sword of the Stars: Complete Collection,35.99,BRL,Strategy,"4 Jun, 2010",75
+42900,Hearts of Iron III: Semper Fi,17.99,BRL,Strategy,"7 Jun, 2010",65
+42902,Hearts of Iron III Semper Fi: Dies Irae Götterdämmerung,3.99,BRL,Strategy,"10 May, 2011",65
+42910,Magicka,35.99,BRL,"Action, RPG","25 Jan, 2011",74
+42920,The Kings' Crusade,35.99,BRL,Strategy,"8 Oct, 2010",71
+42950,Elven Legacy: Ranger,6.99,BRL,Strategy,"20 Oct, 2009",68
+42960,Victoria II,71.99,BRL,Strategy,"30 Aug, 2010",75
+42968,Victoria II: A House Divided,35.99,BRL,Strategy,"2 Feb, 2012",76
+42990,Sword of the Stars II: Enhanced Edition,71.99,BRL,Strategy,"30 Nov, 2012",65
+43000,Front Mission Evolved,18.45,BRL,Action,"7 Oct, 2010",63
+43190,The Haunted: Hells Reach,29.99,BRL,"Action, Indie","24 Oct, 2011",51
+43500,M.U.D. TV,39.0,BRL,"Simulation, Strategy","19 Apr, 2010",53
+43600,Nancy Drew®: Warnings at Waverly Academy,46.99,BRL,Adventure,"13 Jan, 2010",76
+44340,Operation Flashpoint: Red River,,,"Action, Strategy",,67
+44350,GRID 2,,,"Racing, Sports",,80
+44680,RACE Injection,25.99,BRL,Racing,"18 Nov, 2011",72
+44690,GT Legends,26.49,BRL,"Racing, Simulation, Sports","28 Nov, 2012",84
+45300,Wings of Prey,32.99,BRL,Simulation,"8 Jan, 2010",78
+45310,Wings of Prey Demo,,,Simulation,"14 Jan, 2010",78
+45410,Ignite,19.99,BRL,Racing,"28 Oct, 2011",59
+45450,Fortix 2,4.29,BRL,"Casual, Indie","6 May, 2011",74
+45460,Fortix 2 Demo,,,"Indie, Casual","11 May, 2011",74
+45720,Lost Planet: Extreme Condition Colonies Edition,,,"Action, Adventure","11 Feb, 2010",70
+45740,Dead Rising® 2,22.25,BRL,"Action, Adventure","27 Sep, 2010",78
+45750,Lost Planet® 2,,,"Action, Adventure","15 Oct, 2010",63
+45760,Ultra Street Fighter® IV,16.77,BRL,Action,"7 Aug, 2014",82
+45770,Dead Rising 2: Off the Record,22.25,BRL,"Action, Adventure","11 Oct, 2011",66
+46000,Bob Came in Pieces,32.99,BRL,"Adventure, Indie","22 Jan, 2010",73
+46010,Bob Came in Pieces Demo,,,"Adventure, Indie","22 Jan, 2010",73
+46290,Theatre of War,13.79,BRL,Strategy,"9 Jul, 2010",66
+46340,Theatre of War 2: Africa 1943,16.99,BRL,"Simulation, Strategy","9 Jul, 2010",63
+46370,Rig n Roll,16.99,BRL,Simulation,"9 Jul, 2010",61
+46380,Reign: Conflict of Nations,13.79,BRL,Strategy,"12 Jul, 2010",60
+46410,Avencast: Rise of the Mage,16.99,BRL,"Action, Adventure, Indie, RPG","17 Mar, 2010",68
+46450,Grotesque Tactics: Evil Heroes,32.99,BRL,"Indie, RPG, Strategy","15 Oct, 2010",65
+46480,Still Life,15.99,BRL,Adventure,"1 Jun, 2011",75
+46490,Still Life 2,15.99,BRL,Adventure,"1 Jun, 2011",67
+46500,Syberia,5.19,BRL,"Adventure, Casual","19 May, 2011",82
+46510,Syberia II,5.19,BRL,Adventure,"19 May, 2011",80
+46540,Trapped Dead,16.99,BRL,"Action, Strategy","15 Jul, 2011",50
+46550,Post Mortem,15.99,BRL,Adventure,"26 Aug, 2011",71
+46560,Robin Hood: The Legend of Sherwood,3.19,BRL,Strategy,"26 Aug, 2011",80
+46750,Dark Fall: Lost Souls,275.0,THB,"Adventure, Indie","21 Apr, 2010",75
+46770,Making History II: The War of the World,46.99,BRL,"Indie, Simulation, Strategy","27 Aug, 2010",38
+46790,Armada 2526,7.04,BRL,Strategy,"8 Apr, 2011",66
+47410,Stronghold Kingdoms,,,"Massively Multiplayer, Strategy, Free To Play","27 Feb, 2012",75
+47540,Puzzle Quest 2,,,"RPG, Casual","12 Aug, 2010",83
+47700,Command & Conquer™ 4 Tiberian Twilight,,,"Adventure, Strategy","16 Mar, 2010",64
+47780,Dead Space™ 2,59.0,BRL,"Action, Adventure","27 Jan, 2011",87
+47790,Medal of Honor™,59.0,BRL,Action,"12 Oct, 2010",72
+47810,Dragon Age: Origins - Ultimate Edition,159.0,BRL,RPG,"26 Oct, 2010",91
+47830,Medal of Honor™,59.0,BRL,Action,"12 Oct, 2010",72
+47889,Battlefield: Bad Company 2 Vietnam,,,Action,"18 Dec, 2010",86
+47890,The Sims™ 3,79.0,BRL,Simulation,"27 Jan, 2011",86
+47892,The Sims™ 3 World Adventures,79.0,BRL,Simulation,"27 Jan, 2011",81
+47893,The Sims™ 3 Ambitions,79.0,BRL,Simulation,"27 Jan, 2011",74
+47894,The Sims™ 3 Late Night,79.0,BRL,Simulation,"27 Jan, 2011",74
+47898,The Sims™ 3 Generations,79.0,BRL,Simulation,"3 Jun, 2011",70
+48110,Silent Hunter 5®: Battle of the Atlantic,,,Simulation,"3 Mar, 2010",62
+48240,Anno 2070™,19.99,EUR,Strategy,"17 Nov, 2011",83
+49520,Borderlands 2,19.99,USD,"Action, RPG","Sep 17, 2012",89
+49540,Aliens: Colonial Marines Collection,29.99,EUR,Action,"1 May, 2012",45
+49900,Plain Sight,,,"Action, Indie, Free To Play","Apr 5, 2010",76
+63380,Sniper Elite V2,,,Action,,66
+72760,Fallout New Vegas®: Lonesome Road™,2.99,USD,"Aksiyon, RYO",20 Eyl 2011,57
+73050,Magicka Demo,,,"Action, RPG","24 Jan, 2011",74
+73060,Defenders of Ardania,,,Strategy,"14 Mar, 2012",58
+73170,Darkest Hour: A Hearts of Iron Game,35.99,BRL,Strategy,"8 Apr, 2011",81
+73190,Pride of Nations,59.99,BRL,"Simulation, Strategy","7 Jun, 2011",70
+73210,Sengoku,35.99,BRL,"RPG, Simulation, Strategy","15 Sep, 2011",70
+78000,Bejeweled® 3,9.9,BRL,"Casual, Strategy","7 Dec, 2010",82
+80000,APOX,24.99,BRL,"Action, Indie, Strategy","20 Jan, 2011",48
+80200,Fate of the World,19.99,BRL,"Casual, Indie, Simulation, Strategy","28 Feb, 2011",70
+80310,Gemini Rue,16.99,BRL,"Adventure, Indie","26 Oct, 2011",82
+80330,The Blackwell Legacy,8.49,BRL,"Adventure, Indie","13 Jan, 2012",80
+80360,Blackwell Deception,16.99,BRL,"Adventure, Indie","13 Jan, 2012",73
+91100,SkyDrift,32.99,BRL,"Indie, Racing","21 Nov, 2011",73
+91110,SkyDrift Demo,,,,"29 Nov, 2011",73
+91200,Anomaly: Warzone Earth,2.05,BRL,"Action, Indie, Strategy","8 Apr, 2011",80
+91330,Iron Front: Digital War Edition,27.99,BRL,"Action, Simulation, Strategy","25 May, 2012",55
+91600,Sanctum,37.19,BRL,"Action, Casual, Indie, Strategy","15 Apr, 2011",70
+91610,Sanctum Demo,,,"Action, Strategy, Indie","13 May, 2011",70
+91900,Post Apocalyptic Mayhem,19.99,BRL,"Action, Racing","17 Mar, 2011",44
+92000,Hydrophobia: Prophecy,10.49,BRL,"Action, Adventure, Indie, Strategy","9 May, 2011",64
+92300,A.R.E.S.: Extinction Agenda,10.89,BRL,"Action, Indie","19 Jan, 2011",68
+92310,A.R.E.S.: Extinction Agenda Demo,,,,"19 Jan, 2011",68
+92600,Xotic,20.69,BRL,"Action, Indie","16 Sep, 2011",67
+92700,Shadow Harvest: Phantom Ops,19.99,BRL,Action,"15 Apr, 2011",34
+92800,SpaceChem,32.99,BRL,"Indie, Simulation","2 Mar, 2011",84
+92810,SpaceChem Demo,,,,"2 Mar, 2011",84
+93200,Revenge of the Titans,46.99,BRL,"Action, Indie, Strategy","16 Mar, 2011",79
+94200,Jamestown,20.69,BRL,"Action, Indie","8 Jun, 2011",81
+94300,The Dream Machine: Chapter 1 & 2,13.79,BRL,"Adventure, Casual, Indie","11 May, 2012",75
+94400,Nidhogg,32.99,BRL,"Action, Indie, Sports","13 Jan, 2014",81
+94590,Puzzle Agent 2,19.99,BRL,"Action, Adventure, Casual","30 Jun, 2011",63
+94620,Hector: Badge of Carnage - Full Series,50.0,BRL,"Adventure, Casual","27 Apr, 2011",75
+95300,Capsized,32.99,BRL,"Action, Indie","29 Apr, 2011",80
+95310,Capsized Demo,,,,"29 Apr, 2011",80
+95400,ibb & obb,23.99,BRL,"Action, Adventure, Indie","26 May, 2014",83
+95900,Air Conflicts: Secret Wars,12.39,BRL,"Action, Simulation","15 Jul, 2011",65
+96000,The Tiny Bang Story,16.99,BRL,"Adventure, Casual, Indie","22 Apr, 2011",63
+96010,The Tiny Bang Story Demo,,,,"5 May, 2011",63
+96200,Steel Storm: Burning Retribution,24.99,BRL,"Action, Indie","11 May, 2011",55
+96800,Nexuiz,19.99,BRL,Action,"10 May, 2012",54
+97000,Solar 2,16.99,BRL,"Action, Adventure, Casual, Indie, Simulation","17 Jun, 2011",72
+97010,Solar 2 Demo,,,,"17 Jun, 2011",72
+97110,Kohan: Immortal Sovereigns,16.99,BRL,Strategy,"24 Aug, 2011",87
+97120,Kohan: Ahriman's Gift,16.99,BRL,Strategy,"24 Aug, 2011",79
+97130,Kohan II: Kings of War,16.99,BRL,Strategy,"24 Aug, 2011",81
+97340,Magic: The Gathering - Duels of the Planeswalkers 2013 Demo,,,,"20 Jun, 2012",77
+107410,Arma 3,29.99,USD,"Action, Simulation, Strategy","Sep 12, 2013",74
+108710,Alan Wake,14.99,USD,"Action, Adventure","Feb 16, 2012",83
+200260,Batman: Arkham City - Game of the Year Edition,19.99,EUR,"Action, Adventure","7 Sep, 2012",91
+201810,Wolfenstein: The New Order,49.99,BRL,Action,"19 May, 2014",81
+204450,Call of Juarez: Gunslinger,16000.0,KRW,Action,"22 May, 2013",79
+205840,Yesterday,17.9,BRL,Adventure,"22 Mar, 2012",65
+205910,Tiny and Big: Grandpa's Leftovers,38.49,BRL,Indie,"19 Jun, 2012",75
+205990,Warlock 2: The Exiled,71.99,BRL,Strategy,"10 Apr, 2014",73
+206190,Gunpoint,16.99,BRL,"Action, Indie, Strategy","3 Jun, 2013",83
+206230,Clan of Champions,6.99,BRL,Action,"30 Oct, 2012",42
+206290,Unstoppable Gorg Demo,,,,"13 Feb, 2012",73
+206370,Tales From Space: Mutant Blobs Attack,32.99,BRL,"Action, Indie","15 Aug, 2012",83
+206420,Saints Row IV: Re-Elected,99.0,BRL,"Action, Adventure","19 Aug, 2013",86
+206440,To the Moon,6.99,BRL,"Adventure, Indie, RPG","7 Sep, 2012",81
+206760,Painkiller: Recurring Evil,10.0,BRL,Action,"29 Feb, 2012",38
+207040,Sine Mora,,,"Action, Indie","9 Nov, 2012",77
+207140,SpeedRunners,46.99,BRL,"Action, Casual, Indie, Racing, Sports","19 Apr, 2016",84
+207170,Legend of Grimrock,46.99,BRL,"Adventure, Indie, RPG","11 Apr, 2012",82
+207190,Fireburst,26.49,BRL,"Action, Adventure, Racing","25 Apr, 2012",59
+207250,Cubemen,6.39,BRL,"Indie, Strategy","16 Mar, 2012",74
+207320,Ys: The Oath in Felghana,16.99,CAD,"Action, Adventure, RPG","19 Mar, 2012",73
+207350,Ys Origin,21.99,CAD,"Action, Adventure, RPG","31 May, 2012",76
+207420,Wizorb,6.29,BRL,"Action, Adventure, Indie","14 Mar, 2012",81
+207490,Rayman® Origins,59.99,BRL,"Action, Adventure","29 Mar, 2012",86
+207510,Rayman Origins Demo,,,"Action, Adventure","29 Feb, 2012",86
+207530,Noitu Love 2: Devolution,10.49,BRL,"Action, Indie","23 Apr, 2012",80
+207610,The Walking Dead,46.99,BRL,Adventure,"24 Apr, 2012",82
+207620,The Walking Dead: 400 Days,16.99,BRL,Adventure,"3 Jul, 2013",78
+207650,A Virus Named TOM,20.49,BRL,"Action, Indie, Strategy","1 Aug, 2012",65
+207690,Botanicula,44.99,BRL,"Adventure, Casual, Indie","7 May, 2012",82
+207750,Symphony,16.99,BRL,"Action, Casual, Indie","6 Aug, 2012",75
+207770,Men of War: Assault Squad GOTY Demo,,,,"20 Mar, 2012",77
+207870,Borderlands 2 - Captain Scarlett and her Pirate's Booty,14.99,BRL,"Action, RPG","16 Oct, 2012",80
+207930,Sacred Citadel,4.99,BRL,Action,"16 Apr, 2013",61
+207990,Sine Mora Demo,,,"Action, Indie","27 Nov, 2012",77
+208010,Noitu Love 2 Devolution,,,,"25 Apr, 2012",80
+208070,Waveform Demo,,,,"20 Mar, 2012",81
+208110,Myst V: End of Ages,32.99,BRL,"Adventure, Casual","16 Mar, 2012",80
+208140,ENDLESS™ Space - Definitive Edition,19.99,BRL,Strategy,"4 Jul, 2012",77
+208480,Assassin’s Creed® III,,,Adventure,"20 Nov, 2012",80
+209630,Magrunner: Dark Pulse,19.99,USD,"Action, Adventure, Indie","Jun 20, 2013",70
+211740,Thief™ II: The Metal Age,0.97,USD,"Action, Simulation","May 22, 2012",87
+212680,FTL: Faster Than Light,10.99,CAD,"Indie, Simulation, Strategy","14 Sep, 2012",84
+214490,Alien: Isolation,43.99,CAD,Action,"6 Oct, 2014",81
+214510,LEGO® The Lord of the Rings™,19.99,USD,"Action, Adventure","Nov 27, 2012",80
+216130,Gemini Wars,20.69,BRL,"Indie, Strategy","2 Nov, 2012",53
+216210,Secret Files 3,50.0,BRL,Adventure,"13 Sep, 2012",67
+216290,Gateways,8.49,BRL,Indie,"13 Sep, 2012",72
+216310,Gateways Demo,,,,"11 Oct, 2012",72
+216690,XCOM: Enemy Unknown Demo,,,Strategy,"24 Sep, 2012",89
+216910,Of Orcs And Men,39.99,BRL,"Action, RPG","11 Oct, 2012",69
+217100,Dementium II HD,20.49,BRL,"Action, Adventure, Indie","17 Dec, 2013",37
+217140,Rise of the Triad,27.99,BRL,Action,"31 Jul, 2013",67
+217160,Transcripted Demo,,,"Action, Casual","9 Aug, 2012",78
+217290,Din's Curse,32.99,BRL,"Action, Indie, RPG","22 Aug, 2012",76
+217470,Intrusion 2 Demo,,,Indie,"11 Sep, 2012",80
+217690,Anna - Extended Edition,39.0,BRL,"Adventure, Indie","12 Apr, 2013",75
+217750,Age of Conan: Unchained,,,"Action, Adventure, Free To Play, Massively Multiplayer, RPG","22 Feb, 2013",80
+217920,Alien Rage - Unlimited,59.99,BRL,Action,"24 Sep, 2013",52
+218090,Unity of Command: Stalingrad Campaign,32.99,BRL,"Indie, Strategy","17 Oct, 2012",84
+218110,Din's Curse Demo,,,"Action, Indie, RPG","2 Nov, 2012",76
+218230,PlanetSide 2,,,"Action, Massively Multiplayer, Free To Play","20 Nov, 2012",84
+218350,Unmechanical Demo,,,"Adventure, Indie, Casual",,74
+218550,Borderlands 2: Tiny Tina's Assault on Dragon Keep,14.99,BRL,"Action, RPG","25 Jun, 2013",87
+218620,PAYDAY 2,9.89,BRL,"Action, RPG","13 Aug, 2013",79
+218640,Lucius,19.99,BRL,"Action, Adventure, Indie","26 Oct, 2012",59
+218680,Scribblenauts Unlimited,89.99,BRL,"Adventure, Casual, Strategy","19 Nov, 2012",75
+218820,Mercenary Kings: Reloaded Edition,36.99,BRL,"Action, Adventure, Indie, RPG","25 Mar, 2014",76
+219030,Ys Origin Demo,,,"Action, Adventure, RPG","6 Sep, 2012",76
+219150,Hotline Miami,9.99,USD,"Action, Indie","Oct 23, 2012",85
+219640,Chivalry: Medieval Warfare,45.99,BRL,"Action, Indie","16 Oct, 2012",79
+219660,Secret Files 3 Demo,,,,"18 Sep, 2012",67
+219680,Proteus,32.99,BRL,"Adventure, Casual, Indie","30 Jan, 2013",80
+219740,Don't Starve,5.17,BRL,"Adventure, Indie, Simulation","23 Apr, 2013",79
+219760,Beyond Divinity,11.99,BRL,RPG,"29 Oct, 2012",73
+219910,Edna & Harvey: Harvey's New Eyes,19.99,USD,"Adventure, Indie","Oct 16, 2012",75
+222480,Resident Evil Revelations,22.25,BRL,"Ação, Aventura",20/mai./2013,77
+230410,Warframe,,,"Action, RPG, Free To Play","25 Mar, 2013",69
+230860,Cannon Brawl,14.99,USD,"Action, Adventure, Indie, Strategy","Sep 19, 2014",72
+231120,Euro Truck Simulator 2 Demo,,,Simulation,"8 Feb, 2013",79
+231160,The Swapper,24.99,BRL,"Action, Adventure, Indie","30 May, 2013",87
+231200,Kentucky Route Zero: PC Edition,45.99,BRL,"Adventure, Indie","22 Feb, 2013",81
+231250,Resident Evil: Revelations Demo,,,"Action, Adventure",,77
+231310,MirrorMoon EP,46.99,BRL,"Adventure, Indie","4 Sep, 2013",73
+231330,Deadfall Adventures,36.99,BRL,"Action, Adventure","15 Nov, 2013",53
+231430,Company of Heroes 2,57.99,BRL,Strategy,"25 Jun, 2013",80
+232050,Eador. Masters of the Broken World,34.99,BRL,"Indie, RPG, Strategy","19 Apr, 2013",74
+232090,Killing Floor 2,55.99,BRL,Action,"18 Nov, 2016",75
+232430,Gone Home,46.99,BRL,"Adventure, Indie","15 Aug, 2013",86
+232750,Mars: War Logs,17.9,BRL,"Action, RPG","26 Apr, 2013",59
+232770,POSTAL,,,"Action, Indie","14 Nov, 1997",56
+232790,Broken Age,28.99,BRL,"Adventure, Casual, Indie","28 Jan, 2014",73
+232910,TrackMania² Stadium,29.99,BRL,"Racing, Sports","20 Jun, 2013",77
+232930,Impire Demo,,,,"13 Mar, 2013",45
+232970,Thunder Wolves,9.89,BRL,"Action, Casual, Indie","15 May, 2013",69
+233030,March of the Eagles Demo,,,Strategy,"20 Feb, 2013",71
+233050,ShootMania Elite Demo,,,Action,"9 Oct, 2013",76
+233070,TrackMania² Stadium Demo,,,"Racing, Sports","7 Nov, 2013",77
+233110,Defense Technica,24.99,BRL,"Indie, Strategy","24 Oct, 2013",63
+233130,Shadow Warrior,8.89,BRL,"Action, Adventure","26 Sep, 2013",73
+233150,LUFTRAUSERS,32.99,BRL,"Action, Indie, Simulation","18 Mar, 2014",80
+233190,Final Exam,17.9,BRL,"Action, Indie","5 Nov, 2013",66
+233210,Air Conflicts: Vietnam,28.99,BRL,"Action, Simulation","2 Oct, 2013",43
+233230,Kairo,16.99,BRL,"Adventure, Indie","24 Apr, 2013",76
+233270,Far Cry 3 - Blood Dragon,44.99,BRL,"Action, Adventure","1 May, 2013",81
+233290,Murdered: Soul Suspect,55.99,BRL,"Action, Adventure, RPG","5 Jun, 2014",59
+233310,Avadon 2: The Corruption,13.19,BRL,"Indie, RPG, Strategy","30 Oct, 2013",82
+233370,The Raven - Legacy of a Master Thief,,,Adventure,,74
+233450,Prison Architect,107.99,BRL,"Indie, Simulation, Strategy","6 Oct, 2015",83
+233470,Evoland,4.99,BRL,"Adventure, Indie, RPG","4 Apr, 2013",61
+233490,Sacred Citadel Demo,,,Action,"20 Apr, 2013",61
+233610,Distance,47.49,BRL,"Action, Indie, Racing","18 Sep, 2018",74
+233700,Sword of the Stars: The Pit,32.99,BRL,"Casual, Indie, RPG, Strategy","21 Feb, 2013",69
+233710,Sword of the Stars: The Pit Demo,,,"Casual, Indie, RPG, Strategy","10 Mar, 2013",69
+233720,Surgeon Simulator,6.59,BRL,"Action, Indie, Simulation","19 Apr, 2013",71
+233840,Worms Clan Wars,133.9,BRL,Strategy,"15 Aug, 2013",73
+233860,Kenshi,57.99,BRL,"Action, Indie, RPG, Simulation, Strategy","6 Dec, 2018",75
+233980,UnEpic,25.99,BRL,"Action, Indie, RPG","25 Jul, 2014",68
+234000,Superfrog HD,,,Action,"12 Sep, 2013",56
+234140,Mad Max,89.99,BRL,"Action, Adventure","1 Sep, 2015",73
+234160,Strike Suit Infinity,14.99,BRL,"Action, Indie","30 Apr, 2013",66
+234270,Ken Follett's The Pillars of the Earth,59.99,BRL,"Adventure, Casual, Indie","15 Aug, 2017",78
+234370,Shattered Haven,8.24,BRL,"Action, Adventure, Indie","18 Mar, 2013",60
+234390,Teleglitch: Die More Edition,46.99,BRL,"Action, Indie","24 Jul, 2013",78
+234510,Rising Storm Game of the Year Edition,34.99,BRL,Action,"30 May, 2013",82
+234650,Shadowrun Returns,53.99,BRL,"Adventure, Indie, RPG, Strategy","25 Jul, 2013",76
+234670,NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD,39.95,BRL,"Action, Adventure","24 Oct, 2013",80
+234710,Poker Night 2,,,"Casual, Sports","26 Apr, 2013",75
+234920,Dyscourse,46.99,BRL,"Adventure, Casual, Indie, Simulation","25 Mar, 2015",71
+235070,Bad Bots,10.89,BRL,"Action, Indie","17 May, 2013",49
+235210,STRIDER™ / ストライダー飛竜®,20.1,BRL,"Action, Adventure","19 Feb, 2014",78
+236390,War Thunder,,,"Action, Massively Multiplayer, Simulation, Free To Play","15 Aug, 2013",81
+237630,DuckTales: Remastered,4.99,CAD,"Action, Adventure, Casual","13 Aug, 2013",66
+239030,"Papers, Please",12.99,CAD,"Adventure, Indie","8 Aug, 2013",85
+239070,Hammerwatch,66.0,HKD,"Action, Adventure, Indie, RPG","12 Aug, 2013",72
+239090,Samurai GUNN,33.0,HKD,"Action, Indie","10 Dec, 2013",78
+239120,Final Fantasy III (3D Remake),54.0,HKD,RPG,"27 May, 2014",68
+239200,Amnesia: A Machine for Pigs,19.5,EUR,"Action, Adventure, Indie","10 Sep, 2013",72
+239350,Spelunky,99.0,HKD,Indie,"8 Aug, 2013",90
+241369,Expansion - Europa Universalis IV: Conquest of Paradise,12.79,GBP,"Simulation, Strategy","14 Jan, 2014",81
+241910,Goodbye Deponia,19.99,USD,"Adventure, Indie","Oct 17, 2013",80
+242550,Rayman® Legends,205000.0,IDR,"Action, Adventure","29 Aug, 2013",89
+242640,Styx: Master of Shadows,19.99,USD,Action,"Oct 7, 2014",71
+242760,The Forest,16.79,EUR,"Action, Adventure, Indie, Simulation","30 Apr, 2018",83
+243470,Watch_Dogs™,229000.0,IDR,"Action, Adventure","26 May, 2014",77
+243780,PixelJunk™ Monsters Ultimate,9.99,USD,Strategy,"Aug 26, 2013",72
+244050,Rise of Flight United,,,"Simulation, Free To Play","5 Sep, 2013",77
+244160,Homeworld Remastered Collection,3.49,USD,"Simulation, Strategy","Feb 25, 2015",86
+244810,Foul Play,99.0,HKD,"Action, Adventure, Casual, Indie","18 Sep, 2013",69
+244910,Homesick,99.0,HKD,"Adventure, Indie","28 May, 2015",72
+244950,Where is my Heart?,59.0,HKD,"Adventure, Casual, Indie","29 May, 2014",74
+245170,Skullgirls 2nd Encore,109.0,HKD,"Action, Indie","22 Aug, 2013",83
+245280,ENSLAVED™: Odyssey to the West™ Premium Edition,153.0,HKD,"Action, Adventure","24 Oct, 2013",70
+245370,Etherium,69.0,HKD,Strategy,"25 Mar, 2015",62
+245490,Trials Fusion™,205000.0,IDR,Racing,"24 Apr, 2014",80
+245620,Tropico 5,19.99,USD,"RPG, Simulation, Strategy","May 23, 2014",75
+246070,Hack 'n' Slash,13.37,USD,"Adventure, Casual, Indie","Sep 9, 2014",73
+246090,Spacebase DF-9,9.99,USD,"Indie, Simulation, Strategy","Oct 27, 2014",49
+246110,MASSIVE CHALICE,19.99,USD,"Indie, Strategy","Jun 1, 2015",73
+246660,Assault Android Cactus Demo,,,"Action, Indie","Aug 28, 2013",79
+246720,Wayward Manor,6.99,USD,"Adventure, Casual, Indie","Jul 15, 2014",41
+246960,Giana Sisters: Twisted Dreams - Rise of the Owlverlord,4.99,USD,"Action, Indie","Sep 26, 2013",84
+249130,LEGO® Marvel™ Super Heroes,36.99,BRL,"Action, Adventure","22 Oct, 2013",78
+249150,Beatbuddy: Tale of the Guardians Demo,,,"Action, Adventure, Casual, Indie","19 Aug, 2013",75
+249230,Risen 3 - Titan Lords,6.99,BRL,RPG,"13 Aug, 2014",65
+249570,The Castle Doctrine,8.69,BRL,"Indie, Massively Multiplayer, Strategy","29 Jan, 2014",58
+249590,Teslagrad,39.99,BRL,Indie,"13 Dec, 2013",77
+249650,Blackguards,19.99,BRL,"Action, Adventure, Indie, RPG, Strategy","22 Jan, 2014",68
+249870,Scribblenauts Unmasked: A DC Comics Adventure,89.99,BRL,"Action, Adventure, Casual, Strategy","24 Sep, 2013",68
+250030,Lilly Looking Through,16.99,BRL,"Adventure, Indie","1 Nov, 2013",71
+250110,Assault Android Cactus+,37.99,BRL,"Action, Indie","23 Sep, 2015",79
+250260,Jazzpunk: Director's Cut,27.99,BRL,"Adventure, Indie","7 Feb, 2014",75
+250320,The Wolf Among Us,14.99,EUR,"Action, Adventure, Casual","11 Oct, 2013",85
+250380,Knock-knock,19.99,BRL,"Adventure, Casual","4 Oct, 2013",57
+250400,How to Survive,6.99,BRL,"Action, Adventure, RPG","29 Aug, 2014",60
+250520,UnderRail,46.99,BRL,"Indie, RPG","18 Dec, 2015",72
+250560,Fight The Dragon,19.99,BRL,"Indie, RPG","4 Dec, 2014",76
+250620,Among the Sleep - Enhanced Edition,32.99,BRL,"Action, Adventure, Indie","29 May, 2014",66
+250640,[Old Edition] Croixleur Sigma,,,"Action, Casual, Indie","30 Apr, 2014",56
+250680,BELOW,47.49,BRL,"Action, Adventure, Indie, RPG","14 Dec, 2018",67
+250700,Super Time Force Ultra,27.99,BRL,"Action, Indie","25 Aug, 2014",80
+250760,Shovel Knight: Treasure Trove,75.49,BRL,"Action, Adventure, Indie","26 Jun, 2014",85
+250790,BeatBlasters III Demo,,,Indie,"28 Aug, 2013",56
+250870,Pro Evolution Soccer 2014,,,Sports,"12 Nov, 2013",74
+251060,Wargame: Red Dragon,149.49,BRL,"Indie, Simulation, Strategy","17 Apr, 2014",78
+251130,Chroma Squad,46.99,BRL,"Indie, RPG, Strategy","30 Apr, 2015",75
+251150,The Legend of Heroes: Trails in the Sky,21.99,CAD,RPG,"29 Jul, 2014",85
+251230,Livelock,20.69,BRL,"Action, Adventure, Indie","30 Aug, 2016",73
+251270,Corpse Party,27.99,BRL,"Adventure, Indie, RPG","25 Apr, 2016",71
+251290,The Legend of Heroes: Trails in the Sky SC,34.99,CAD,RPG,"29 Oct, 2015",80
+251430,The Inner World,46.99,BRL,"Adventure, Indie","27 Sep, 2013",72
+251470,TowerFall Ascension,46.99,BRL,"Action, Indie","11 Mar, 2014",87
+251490,Gravity Ghost,32.99,BRL,Indie,"26 Jan, 2015",75
+251510,Constant C,19.99,BRL,"Action, Casual, Indie","11 Mar, 2014",60
+251630,The Impossible Game,6.49,BRL,Indie,"8 May, 2014",64
+251690,Speedball 2 HD,32.99,BRL,"Action, Indie, Sports","5 Dec, 2013",53
+251830,Stick it to The Man!,16.59,BRL,"Action, Adventure, Indie","13 Dec, 2013",83
+251850,Master Reboot,28.99,BRL,"Action, Adventure, Indie","29 Oct, 2013",59
+251950,WWII Online,,,"Action, Casual, Indie, Massively Multiplayer, RPG, Simulation, Strategy, Free To Play","6 Jul, 2023",73
+251990,Long Live The Queen,25.99,BRL,"Indie, RPG, Simulation, Strategy","8 Nov, 2013",67
+252030,Valdis Story: Abyssal City,27.99,BRL,"Action, Indie, RPG","30 Oct, 2013",83
+252110,Lovers in a Dangerous Spacetime,27.99,BRL,"Action, Indie, Simulation","9 Sep, 2015",80
+252130,Divide By Sheep,16.99,BRL,"Adventure, Casual, Indie","2 Jul, 2015",83
+252310,Syder Arcade,19.99,BRL,"Action, Indie","24 Oct, 2013",76
+252330,Slender: The Arrival,59.99,BRL,"Action, Adventure, Indie","28 Oct, 2013",65
+252410,SteamWorld Dig,20.69,BRL,"Action, Adventure, Indie","5 Dec, 2013",76
+252450,StarDrive 2,29.99,USD,"Indie, Strategy","Apr 9, 2015",70
+252490,Rust,119.99,BRL,"Action, Adventure, Indie, Massively Multiplayer, RPG","8 Feb, 2018",69
+252550,Qbeh-1: The Atlas Cube,20.69,BRL,"Adventure, Casual, Indie","15 May, 2014",72
+252630,Eldritch,24.99,BRL,"Action, Adventure, Indie, RPG","21 Oct, 2013",77
+252670,Nihilumbra,15.99,BRL,"Adventure, Casual, Indie","25 Oct, 2013",75
+252710,The Last Express Gold Edition,23.5,BRL,Adventure,"21 Nov, 2013",82
+252750,MouseCraft,7.5,BRL,"Action, Adventure, Casual, Indie, Strategy","8 Jul, 2014",72
+252950,Rocket League®,,,"Action, Indie, Racing, Sports","6 Jul, 2015",86
+253030,Race The Sun,32.99,BRL,"Action, Indie, Racing","9 Dec, 2013",79
+253110,The Cat Lady,29.99,BRL,"Adventure, Indie","4 Dec, 2013",81
+253230,A Hat in Time,88.99,BRL,"Adventure, Indie","5 Oct, 2017",79
+253290,FOTONICA,46.99,BRL,"Action, Indie","6 Nov, 2014",71
+253310,Fester Mudd: Curse of the Gold - Episode 1,16.99,BRL,Adventure,"4 Nov, 2013",76
+253330,Neverending Nightmares,27.99,BRL,"Action, Adventure, Indie","26 Sep, 2014",68
+253390,Hot Tin Roof: The Cat That Wore A Fedora,46.99,BRL,"Action, Adventure, Indie, RPG","20 Feb, 2015",66
+253610,Wrack,19.99,BRL,"Action, Indie","30 Sep, 2014",66
+253690,Tiny Brains,4.13,BRL,"Action, Adventure, Casual, Indie","11 Dec, 2013",63
+253750,Ikaruga,16.99,BRL,"Action, Indie","18 Feb, 2014",84
+253790,rymdkapsel,26.49,BRL,"Indie, Strategy","30 Jan, 2014",77
+253840,Shantae: Half-Genie Hero,36.99,BRL,"Action, Adventure, Indie","20 Dec, 2016",76
+253880,Earth 2150 Trilogy,32.99,BRL,Strategy,"1 Nov, 2013",78
+253940,Septerra Core,26.49,BRL,RPG,"27 Sep, 2013",70
+253980,Enclave,32.99,BRL,"Action, RPG","4 Oct, 2013",71
+256460,Cosmic Star Heroine,16.99,CAD,"Indie, RPG","11 Apr, 2017",77
+264710,Subnautica,39.99,CAD,"Adventure, Indie","23 Jan, 2018",87
+265590,The Red Solstice,2.06,BRL,Strategy,"9 Jul, 2015",74
+265690,NaissanceE,,,"Adventure, Indie","13 Feb, 2014",66
+265830,Monochroma,36.99,BRL,"Action, Adventure, Indie","28 May, 2014",55
+265930,Goat Simulator,37.19,BRL,"Casual, Indie, Simulation","1 Apr, 2014",62
+265950,Ether One,55.99,BRL,"Adventure, Indie","25 Mar, 2014",82
+265970,Worlds of Magic,1.74,BRL,"RPG, Strategy","19 Mar, 2015",52
+266110,Tower of Guns,41.0,BRL,"Action, Indie","4 Mar, 2014",76
+266170,Windforge,19.99,BRL,"Action, Indie, RPG","11 Mar, 2014",53
+266410,iRacing,32.99,BRL,"Massively Multiplayer, Racing, Simulation, Sports","12 Jan, 2015",79
+266510,Hand of Fate,19.99,CAD,"Action, Indie, RPG","17 Feb, 2015",78
+266840,Age of Mythology: Extended Edition,55.99,BRL,"Simulation, Strategy","8 May, 2014",66
+267220,Line Of Defense Tactics - Tactical Advantage,19.99,BRL,"Action, Casual, Indie, RPG, Strategy","17 Mar, 2014",47
+267980,Hostile Waters: Antaeus Rising,10.49,BRL,Strategy,"30 Jan, 2014",80
+268030,Battle Worlds: Kronos Demo,,,Strategy,"10 Dec, 2013",71
+268050,The Evil Within,49.99,BRL,Action,"13 Oct, 2014",68
+268130,Heat Signature,27.99,BRL,"Action, Adventure, Indie, Strategy","21 Sep, 2017",79
+268400,Panzer Corps Gold,88.99,BRL,Strategy,"12 Mar, 2014",80
+268500,XCOM® 2,99.9,BRL,Strategy,"4 Feb, 2016",88
+270880,American Truck Simulator,19.99,EUR,"Indie, Simulation","2 Feb, 2016",76
+274190,Broforce,14.99,USD,"Action, Adventure, Casual, Indie","Oct 15, 2015",83
+275390,Guacamelee! Super Turbo Championship Edition,14.99,USD,"Action, Adventure, Indie","Aug 21, 2014",80
+275850,No Man's Sky,58.99,EUR,"Action, Adventure","12 Aug, 2016",61
+279620,Expansion - Europa Universalis IV: Wealth of Nations,13.99,CAD,"Simulation, Strategy","29 May, 2014",84
+279623,Expansion - Europa Universalis IV: Res Publica,6.99,CAD,"Simulation, Strategy","16 Jul, 2014",79
+281410,UberSoldier II,29.99,BRL,"Action, Adventure","25 Mar, 2014",62
+281580,Wings Over Europe,29.99,BRL,Simulation,"30 May, 2014",62
+281610,Homeworld: Deserts of Kharak,9.09,BRL,Strategy,"20 Jan, 2016",79
+281640,The Banner Saga 2,46.25,BRL,"Indie, RPG, Strategy","19 Apr, 2016",82
+281750,Munin,16.99,BRL,"Adventure, Casual, Indie","10 Jun, 2014",68
+281840,4PM,6.29,BRL,Indie,"9 Jul, 2014",41
+281940,Woolfe - The Red Hood Diaries,32.99,BRL,"Action, Adventure, Indie","17 Mar, 2015",55
+281990,Stellaris,244.0,UAH,"Симулятори, Стратегії",9 трав. 2016,78
+282070,This War of Mine,5.99,BRL,"Adventure, Indie, Simulation","14 Nov, 2014",83
+282140,SOMA,88.99,BRL,"Action, Adventure, Indie","21 Sep, 2015",84
+282210,Sid Meier's Starships,9.99,BRL,Strategy,"12 Mar, 2015",64
+282250,Line of Defense Tactics Demo,,,"Action, Indie, RPG, Strategy","26 Feb, 2014",47
+282270,Drox Operative Demo,,,"Action, Indie, RPG","26 Feb, 2014",74
+282560,RollerCoaster Tycoon World™,6.99,BRL,"Simulation, Strategy","16 Nov, 2016",43
+282640,LOST ORBIT,23.99,BRL,"Action, Adventure, Indie","12 May, 2015",72
+282900,Hyperdimension Neptunia Re;Birth1,28.99,BRL,"RPG, Strategy","29 Jan, 2015",72
+283160,House of the Dying Sun,36.99,BRL,"Action, Indie, Simulation","1 Nov, 2016",76
+283180,The Samaritan Paradox,1.99,USD,"Adventure, Indie","Apr 18, 2014",75
+283290,Nosferatu: The Wrath of Malachi,10.49,BRL,"Action, Adventure","6 Mar, 2014",70
+283310,Soulbringer,10.49,BRL,RPG,"13 Mar, 2014",70
+283350,Eurofighter Typhoon,10.49,BRL,Action,"2 May, 2014",69
+283370,Marine Sharpshooter II: Jungle Warfare,10.49,BRL,Action,"3 Apr, 2014",52
+283390,Incoming + Incoming Forces,10.49,BRL,Action,"6 Mar, 2014",67
+283640,Salt and Sanctuary,33.99,BRL,"Action, Indie, RPG","17 May, 2016",84
+283680,Astebreed: Definitive Edition,7.59,BRL,"Action, Indie","30 May, 2014",86
+283811,Frozen Cortex - Soundtrack DLC,21.99,BRL,"Indie, Sports, Strategy","8 Jun, 2015",79
+283812,Frozen Cortex - Mega Tier DLC,31.99,BRL,"Indie, Sports, Strategy","8 Jun, 2015",79
+283813,Frozen Cortex - Ultimate Tier DLC,63.99,BRL,"Indie, Sports, Strategy","8 Jun, 2015",79
+284140,Majestic Nights,10.49,BRL,"Action, Adventure, Indie, RPG","30 Oct, 2014",32
+284390,The Last Door - Collector's Edition,19.99,BRL,"Adventure, Indie","20 May, 2014",79
+284410,Cornerstone: The Song of Tyrim,36.99,BRL,"Action, Adventure, Indie","26 Apr, 2016",58
+284460,DeadCore,34.99,BRL,"Action, Indie","17 Oct, 2014",78
+287440,Ikaruga Demo,,,"Action, Indie","8 May, 2014",84
+287580,Pandora: First Contact,43.95,AUD,"Simulation, Strategy","30 May, 2014",68
+287700,METAL GEAR SOLID V: THE PHANTOM PAIN,235999.0,IDR,"Action, Adventure","1 Sep, 2015",91
+289070,Sid Meier’s Civilization® VI,710.0,KZT,Strategy,"20 Oct, 2016",88
+294100,RimWorld,31.99,EUR,"Indie, Simulation, Strategy","17 Oct, 2018",87
+295490,Schrodinger’s Cat And The Raiders Of The Lost Quark,19.99,BRL,"Action, Adventure, Casual, Indie","23 Sep, 2014",59
+295750,The Floor is Jelly,19.99,BRL,Indie,"30 May, 2014",83
+296070,MIND: Path to Thalamus Enhanced Edition,28.99,BRL,"Adventure, Indie, Strategy","5 Aug, 2014",75
+296180,Iron Storm,6.29,BRL,"Action, Adventure, Indie","8 May, 2014",69
+296210,Brigade E5: New Jagged Union,13.79,BRL,"Simulation, Strategy","30 Apr, 2014",41
+296550,Niko: Through The Dream,19.99,BRL,"Adventure, Indie","17 Jul, 2015",74
+296570,Lords of Xulima,36.99,BRL,RPG,"14 Nov, 2014",71
+296630,Kraven Manor,,,"Action, Adventure, Free To Play, Indie","26 Sep, 2014",58
+296830,Lucius II,36.99,BRL,"Action, Adventure, Indie, Simulation","13 Feb, 2015",48
+296850,Al Emmo and the Lost Dutchman's Mine,29.99,BRL,"Adventure, Indie","9 May, 2014",77
+297000,Heroes® of Might & Magic® III - HD Edition,44.99,BRL,"RPG, Strategy","28 Jan, 2015",65
+297060,Freaking Meatbags,19.99,BRL,"Action, Indie, Strategy","4 Feb, 2015",69
+297120,Heavy Bullets,6.59,BRL,"Action, Indie","18 Sep, 2014",72
+297130,Titan Souls,46.99,BRL,"Action, Adventure, Indie","14 Apr, 2015",74
+297350,The Old City: Leviathan,11.99,BRL,"Adventure, Indie","3 Dec, 2014",62
+297570,Warrior Kings,5.99,BRL,Strategy,"24 Apr, 2014",73
+297620,Rocko's Quest,10.49,BRL,Action,"24 Apr, 2014",41
+297660,Super Rad Raygun,,,"Action, Adventure, Indie","8 Nov, 2016",64
+297720,Corpse of Discovery,4.49,BRL,"Adventure, Indie","25 Aug, 2015",49
+297760,Qvadriga,59.99,BRL,"Racing, Simulation, Sports, Strategy","13 Jun, 2014",72
+297860,Split/Second,59.99,BRL,"Action, Racing","6 Oct, 2014",79
+298000,MotoGP 14 Demo,,,"Racing, Sports","16 Jul, 2014",76
+298030,Total Annihilation,10.49,BRL,Strategy,"18 Dec, 2015",86
+298050,Master of Orion,47.49,BRL,Strategy,"25 Aug, 2016",74
+298110,Far Cry® 4,46350.0,IDR,"Action, Adventure","17 Nov, 2014",80
+298140,Rhiannon: Curse of the Four Branches,16.99,BRL,"Adventure, Indie","15 May, 2014",67
+298260,Only If,,,"Adventure, Indie, Free To Play","25 Jul, 2014",39
+298520,Orbital Gear,,,"Action, Indie, Simulation, Free To Play","7 Aug, 2014",59
+298600,Lovely Planet,20.49,BRL,"Action, Indie","31 Jul, 2014",61
+298630,The Escapists,9.19,BRL,"Action, Adventure, Indie, Simulation, Strategy","13 Feb, 2015",71
+298900,Space Hulk: Deathwing,,,"Action, Adventure","14 Dec, 2016",58
+298920,Croixleur Sigma Demo,,,"Action, Indie","6 May, 2014",56
+299030,Blood: One Unit Whole Blood,,,"Action, Adventure","14 Jul, 2014",82
+299050,Blood II: The Chosen + Expansion,2.09,BRL,"Action, Adventure","14 Jul, 2014",72
+299070,Warrior Kings: Battles,5.99,BRL,Strategy,"6 May, 2014",64
+299130,DreadOut Demo,,,"Adventure, Indie","6 May, 2014",55
+304530,Agents of Mayhem,29.99,USD,Action,"Aug 15, 2017",68
+306130,The Elder Scrolls® Online,19.99,USD,"Action, Adventure, Massively Multiplayer, RPG","May 22, 2017",80
+307580,Technobabylon,14.99,USD,"Adventure, Indie","May 21, 2015",82
+310470,Grand Ages: Medieval,19.99,USD,"Simulation, Strategy","Sep 25, 2015",63
+310490,Crookz - The Big Heist,39.0,BRL,"Simulation, Strategy","25 Aug, 2015",74
+310510,Deathtrap,59.99,BRL,"Action, Adventure, Indie, RPG, Strategy","4 Feb, 2015",77
+310740,NEON STRUCT,33.99,BRL,"Action, Indie","20 May, 2015",62
+310880,Basketball Pro Management 2015,19.99,BRL,"Simulation, Sports, Strategy","19 Nov, 2014",69
+310950,Street Fighter V,44.5,BRL,Action,"15 Feb, 2016",89
+311010,The Way,46.99,BRL,"Action, Adventure, Indie","20 May, 2016",67
+311040,Rulers of Nations,36.99,BRL,Strategy,"16 Jul, 2014",63
+311080,Echelon,3.44,BRL,"Action, Simulation","3 Jul, 2014",70
+311100,Echelon: Wind Warriors,13.79,BRL,"Action, Simulation","8 Aug, 2014",63
+311210,Call of Duty®: Black Ops III,329.9,BRL,"Action, Adventure","5 Nov, 2015",73
+311240,Zero Escape: Zero Time Dilemma,22.79,CAD,Adventure,"29 Jun, 2016",78
+311260,The Guild 3,13.99,BRL,"RPG, Simulation, Strategy","14 Jun, 2022",65
+311340,METAL GEAR SOLID V: GROUND ZEROES,36.99,BRL,"Action, Adventure","18 Dec, 2014",80
+311480,Vertical Drop Heroes HD,13.99,BRL,"Action, RPG","25 Jul, 2014",70
+311560,Assassin’s Creed® Rogue,59.99,BRL,"Action, Adventure","9 Mar, 2015",74
+311690,Enter the Gungeon,5.84,CAD,"Action, Adventure, Indie","5 Apr, 2016",84
+311730,DEAD OR ALIVE 5 Last Round: Core Fighters,,,Action,"30 Mar, 2015",69
+311950,Freedom Planet Demo,,,"Action, Indie","4 Dec, 2014",83
+312060,FINAL FANTASY XIV Online Free Trial,,,"Massively Multiplayer, RPG","5 Nov, 2014",83
+312200,Chasm,37.99,BRL,"Action, Adventure, Indie, RPG","30 Jul, 2018",72
+312330,Meridian: New World Demo,,,"Indie, Strategy","2 Jul, 2014",43
+312360,To End All Wars,107.99,BRL,"Simulation, Strategy","29 Aug, 2014",71
+312440,Legions of Steel,59.99,BRL,Strategy,"16 Jul, 2015",64
+312450,Order of Battle: World War II,,,"Simulation, Strategy, Free To Play","30 Apr, 2015",81
+312520,Rain World,73.99,BRL,"Action, Adventure, Indie","28 Mar, 2017",66
+312530,Duck Game,25.99,BRL,"Action, Indie","4 Jun, 2015",82
+312540,Ys VI: The Ark of Napishtim,22.99,CAD,"Action, Adventure, RPG","28 Apr, 2015",76
+312560,Xanadu Next,28.99,BRL,"Action, RPG","3 Nov, 2016",78
+312660,Sniper Elite 4,105.99,BRL,"Action, Adventure","13 Feb, 2017",78
+312670,Strange Brigade,93.99,BRL,"Action, Adventure","27 Aug, 2018",68
+312780,Way of the Samurai 4,45.99,BRL,"Action, Adventure","23 Jul, 2015",72
+313010,Cities XXL,34.9,BRL,Simulation,"5 Feb, 2015",47
+313080,The Masterplan,19.99,USD,"Action, Indie, Strategy","Jun 4, 2015",68
+313130,Metrocide,26.89,BRL,Indie,"15 Dec, 2014",68
+313160,Farming Simulator 15,26.89,BRL,Simulation,"30 Oct, 2014",64
+313290,Battleplan: American Civil War Demo,,,"Casual, Simulation, Strategy","7 Jul, 2014",66
+313500,Blitzkrieg 2 Anthology,10.49,BRL,Strategy,"16 Sep, 2014",75
+313630,The Solus Project,36.99,BRL,"Adventure, Indie, Simulation","7 Jun, 2016",68
+313780,Conarium,59.99,BRL,"Adventure, Indie","6 Jun, 2017",71
+313810,Legend of Kay Anniversary,9.24,BRL,"Action, Adventure, RPG","27 Jul, 2015",64
+313870,A Vampyre Story,32.99,BRL,Adventure,"15 Jul, 2014",74
+316090,Bravada Demo,,,"Indie, RPG, Strategy","25 Aug, 2014",70
+321870,Silence of the Sleep,16.99,BRL,"Adventure, Indie","1 Oct, 2014",66
+322080,Disorder,,,"Action, Indie, Free To Play","12 Jan, 2015",61
+322190,SteamWorld Heist,28.99,BRL,"RPG, Strategy","7 Jun, 2016",81
+322210,"Guns, Gore & Cannoli",19.99,BRL,"Action, Indie","30 Apr, 2015",80
+322330,Don't Starve Together,9.51,BRL,"Action, Adventure, Indie, RPG, Simulation, Strategy","21 Apr, 2016",83
+322440,Red Goddess: Inner World,19.99,BRL,"Action, Adventure, Indie","31 Aug, 2015",53
+322500,SUPERHOT,24.99,USD,"Action, Indie","Feb 25, 2016",82
+322610,Sid Meier's Civilization: Beyond Earth Demo,,,Strategy,"24 Oct, 2014",81
+322670,Majestic Nights Demo,,,"Action, Adventure, Indie, RPG","30 Oct, 2014",32
+322680,BLACKHOLE,29.99,BRL,"Action, Adventure, Indie","27 Feb, 2015",82
+322750,Drifting Lands,10.89,BRL,"Action, Indie, RPG","5 Jun, 2017",71
+322900,"War, the Game",13.99,BRL,"Indie, Strategy","12 Jan, 2015",65
+322920,theHunter: Primal,,,"Action, Adventure, Simulation","31 Mar, 2015",49
+322970,Subject 13,19.99,BRL,"Adventure, Indie","28 May, 2015",59
+323190,Frostpunk,8.89,BRL,"Simulation, Strategy","24 Apr, 2018",84
+323320,Grow Home,5.99,BRL,"Adventure, Casual, Indie","4 Feb, 2015",75
+323380,The Magic Circle,59.99,BRL,"Action, Adventure, Indie, Simulation, Strategy","9 Jul, 2015",79
+323580,Jotun: Valhalla Edition,46.99,BRL,"Action, Adventure, Indie","29 Sep, 2015",79
+323700,Poltergeist: A Pixelated Horror,32.99,BRL,"Casual, Indie","20 Oct, 2014",70
+323720,Decay: The Mare,16.99,BRL,"Adventure, Indie","13 Feb, 2015",60
+323850,Move or Die,27.99,BRL,"Action, Indie","21 Jan, 2016",80
+324140,Kalimba,19.99,BRL,"Action, Casual","22 Apr, 2015",81
+324160,CLANNAD,121.99,BRL,"Adventure, Casual","23 Nov, 2015",83
+324260,VoidExpanse,14.99,USD,"Action, Indie, RPG, Simulation, Strategy","Apr 2, 2015",59
+324650,Gemini: Heroes Reborn,6.49,BRL,"Action, Adventure","18 Jan, 2016",54
+324680,Impossible Creatures Steam Edition,4.99,BRL,Strategy,"11 Nov, 2015",72
+324740,The Warlock of Firetop Mountain,59.99,BRL,"Action, Adventure, Indie","30 Aug, 2016",70
+324800,Shadow Warrior 2,8.89,BRL,"Action, Adventure","13 Oct, 2016",78
+325060,Parallax,10.89,BRL,Indie,"10 Mar, 2015",68
+330020,Children of Morta,4.34,CAD,"Action, Adventure, Indie, RPG","3 Sep, 2019",82
+331690,Crossing Souls,19.49,CAD,"Action, Adventure, Indie","13 Feb, 2018",70
+333110,Phantom Breaker: Battle Grounds - Kurisu Makise + Level 99 Pack,6.99,BRL,Action,"13 Mar, 2015",64
+333430,Sinking Island,7.99,USD,Adventure,"Dec 5, 2014",68
+333580,"Slow Down, Bull",4.29,BRL,"Action, Casual, Indie","20 Apr, 2015",65
+333640,Caves of Qud,84.99,BRL,"Adventure, Indie, RPG, Strategy","5 Dec, 2024",91
+333690,Epanalepsis,8.39,BRL,"Adventure, Indie","21 May, 2015",48
+333930,Dirty Bomb®,,,"Action, Free To Play","2 Jun, 2015",63
+333970,A Druid's Duel,16.59,BRL,"Indie, Strategy","25 Feb, 2015",70
+334070,Hektor,19.99,BRL,"Action, Adventure, Indie","13 Mar, 2015",55
+334100,Extreme Exorcism,12.39,BRL,"Action, Adventure, Casual, Indie","23 Sep, 2015",75
+334120,Armikrog,32.99,BRL,"Adventure, Indie","30 Sep, 2015",57
+334140,Roche Fusion,12.4,BRL,"Action, Casual, Indie","23 Jan, 2015",85
+334310,Plebby Quest: The Crusades,59.99,BRL,"Action, Adventure, Casual, Indie, RPG, Simulation, Strategy","8 Apr, 2020",78
+334940,Yoku's Island Express,104.9,BRL,"Adventure, Indie","29 May, 2018",84
+335000,Tormentum - Dark Sorrow,23.99,BRL,"Adventure, Casual, Indie","4 Mar, 2015",72
+335120,Serpent in the Staglands,27.89,BRL,"Adventure, RPG","28 May, 2015",75
+335300,DARK SOULS™ II: Scholar of the First Sin,154.9,BRL,"Action, RPG","1 Apr, 2015",79
+343100,Overture,4.99,USD,"Action, Adventure, Casual, Indie, RPG, Strategy","Feb 2, 2015",76
+343710,Kholat,59.99,BRL,"Adventure, Indie","9 Jun, 2015",64
+343860,Tacoma,59.99,BRL,"Adventure, Indie","1 Aug, 2017",76
+344000,The Weaponographist Demo,,,"Action, Indie, RPG","20 Apr, 2015",58
+344030,Ghost Pirates of Vooju Island,32.99,BRL,"Adventure, Casual","27 Jan, 2015",66
+344150,Sym Demo,,,Indie,"11 Feb, 2015",61
+344410,Magnetic: Cage Closed,46.99,BRL,"Action, Adventure, Indie","26 May, 2015",61
+344500,Three Fourths Home: Extended Edition,10.49,BRL,"Adventure, Indie","20 Mar, 2015",77
+344740,CRYPTARK,27.99,BRL,"Action, Adventure, Indie, Strategy","20 Jun, 2017",80
+344850,Big Pharma,73.99,BRL,"Indie, Simulation, Strategy","27 Aug, 2015",72
+345180,Victor Vran ARPG,39.99,BRL,"Action, Adventure, Indie, RPG","24 Jul, 2015",75
+345480,Lumo,10.49,BRL,"Adventure, Indie","24 May, 2016",77
+346110,ARK: Survival Evolved,14.79,EUR,"Action, Adventure, Indie, Massively Multiplayer, RPG","27 Aug, 2017",70
+350080,Wolfenstein: The Old Blood,49.99,BRL,Action,"4 May, 2015",76
+353540,Stephen's Sausage Roll,88.99,BRL,Indie,"17 Apr, 2016",90
+353580,Rad Rodgers: World One,,,"Action, Adventure, Indie","1 Dec, 2016",72
+353640,Train Valley,19.99,BRL,"Action, Adventure, Casual, Indie, Simulation, Strategy","16 Sep, 2015",69
+353700,The Deadly Tower of Monsters,27.99,BRL,"Action, Adventure, Indie","19 Jan, 2016",73
+353830,Sid Meier's Civilization: Beyond Earth - Rising Tide,19.75,BRL,Strategy,"8 Oct, 2015",79
+354110,Supreme League of Patriots Issue 1: A Patriot Is Born Demo,,,,"12 Mar, 2015",56
+354140,Five Nights at Freddy's 3,16.59,BRL,"Action, Indie, Simulation","2 Mar, 2015",68
+354160,WRC 5 FIA World Rally Championship,20.69,BRL,Racing,"8 Oct, 2015",65
+354180,Bunker - The Underground Game,8.69,BRL,"Adventure, Indie","21 May, 2015",70
+354400,Tadpole Treble,10.49,BRL,"Action, Adventure, Indie","2 Sep, 2016",90
+354740,Echoes of Aetheria,46.99,BRL,"Indie, RPG","15 Jan, 2016",77
+355310,Blood Alloy: Reborn,26.89,BRL,"Action, Indie","2 Mar, 2016",48
+355530,Last Word,32.99,BRL,"Adventure, Casual, Indie, RPG","8 May, 2015",67
+355660,Ride: Game Demo,,,"Racing, Simulation, Sports","18 Mar, 2015",68
+355680,Overland,59.99,BRL,Strategy,"19 Sep, 2019",69
+355790,Styx: Shards of Darkness,54.9,BRL,"Action, Adventure","14 Mar, 2017",72
+355800,Space Run Galaxy,34.9,BRL,"Indie, Strategy","17 Jun, 2016",75
+356040,Sheltered,12.99,EUR,"Indie, RPG, Strategy","15 Mar, 2016",62
+356180,Time Machine VR,55.99,BRL,"Adventure, Indie, Simulation","19 May, 2016",58
+356210,Tony Tough and the Night of Roasted Moths,19.99,BRL,"Adventure, Casual","7 May, 2015",68
+357720,Inside My Radio,14.99,USD,"Action, Casual, Indie","May 11, 2015",68
+359230,Lethis - Path of Progress,19.99,EUR,"Indie, Simulation, Strategy","25 Jun, 2015",65
+361990,Lakeview Cabin Collection,9.99,EUR,Indie,"9 Apr, 2015",70
+362890,Black Mesa,25.99,CAD,"Action, Adventure, Indie","6 Mar, 2020",84
+362960,Tyranny,29.99,EUR,"Adventure, RPG","10 Nov, 2016",80
+364360,Total War: WARHAMMER,254.99,PLN,"Akcja, Strategie",24 maja 2016,86
+364390,Downfall,29.99,BRL,"Adventure, Indie","15 Feb, 2016",75
+364920,Uncanny Valley Demo,,,"Adventure, Indie","20 Apr, 2015",67
+365160,Kona,28.99,BRL,"Adventure, Indie","17 Mar, 2017",73
+365360,Battle Brothers,69.99,BRL,"RPG, Simulation, Strategy","24 Mar, 2017",80
+365450,Hacknet,4.94,BRL,"Indie, Simulation","12 Aug, 2015",82
+365480,Ravenmark: Scourge of Estellion,46.99,BRL,"RPG, Strategy","10 Sep, 2015",75
+365660,OlliOlli2: Welcome to Olliwood,19.49,CAD,"Action, Indie, Sports","11 Aug, 2015",82
+365770,Volume,36.99,BRL,"Action, Indie","18 Aug, 2015",80
+365820,Company of Heroes 2 - The British Forces,38.99,BRL,Strategy,"2 Sep, 2015",80
+365890,Heroes of Normandie,88.99,BRL,Strategy,"1 Oct, 2015",65
+365940,Dungeon of the ENDLESS™ - Australium Update,,,"Adventure, RPG, Strategy",,79
+366320,Seasons after Fall,34.9,BRL,"Adventure, Indie","2 Sep, 2016",75
+366480,Ceres Demo,,,"Action, Indie, RPG, Strategy","16 Oct, 2015",74
+366640,Shiness: The Lightning Kingdom,29.9,BRL,"Action, Adventure, Indie, RPG","18 Apr, 2017",68
+366780,Magical Eyes - Red is for Anguish,46.99,BRL,"Adventure, Indie","30 Mar, 2016",77
+366842,Call of Duty®: Black Ops III,329.9,BRL,"Action, Adventure","5 Nov, 2015",73
+366870,Narcosis,28.99,BRL,"Adventure, Indie","28 Mar, 2017",72
+366910,The Long Journey Home,32.99,BRL,"Indie, RPG, Simulation, Strategy","30 May, 2017",68
+366970,Mighty Switch Force! Hyper Drive Edition,19.99,BRL,"Action, Indie","25 Jun, 2015",85
+367520,Hollow Knight,19.49,CAD,"Action, Adventure, Indie","24 Feb, 2017",87
+368500,Assassin's Creed® Syndicate,409000.0,IDR,"Action, Adventure","18 Nov, 2015",74
+371140,Aegis Defenders,19.99,EUR,"Action, Adventure, Indie, RPG, Strategy","8 Feb, 2018",76
+371660,Far Cry® Primal,349000.0,IDR,"Action, Adventure","29 Feb, 2016",74
+373930,Sudden Strike 4,19.99,EUR,Strategy,"11 Aug, 2017",70
+374040,Portal Knights,2.99,EUR,"Action, Adventure, RPG","18 May, 2017",72
+374190,Infernax,26.99,CAD,"Action, Adventure, Indie, RPG","14 Feb, 2022",84
+375820,Human Resource Machine,15.5,BRL,"Casual, Indie, Simulation","15 Oct, 2015",78
+375910,Anno 2205™,119.99,BRL,"Simulation, Strategy","2 Nov, 2015",72
+375950,Viridi,,,"Casual, Free To Play, Indie, Simulation","19 Aug, 2015",46
+376140,SAGA,,,"Indie, Massively Multiplayer, Strategy, Free To Play","4 Aug, 2015",61
+376300,GUILTY GEAR Xrd -SIGN-,55.99,BRL,Action,"9 Dec, 2015",84
+376450,Last Days of Old Earth,73.99,BRL,Strategy,"7 Jun, 2016",66
+376520,Kelvin and the Infamous Machine,32.99,BRL,"Adventure, Indie","21 Jul, 2016",79
+376570,WildStar,,,"Free To Play, Massively Multiplayer, RPG","9 Jun, 2016",82
+377020,The Magic Circle Demo,,,"Action, Adventure, Indie, Simulation, Strategy","9 Jul, 2015",79
+377080,Hatoful Boyfriend: Holiday Star,19.99,BRL,"Adventure, Indie","5 Dec, 2015",54
+377160,Fallout 4,59.99,BRL,RPG,"9 Nov, 2015",84
+377300,Thunder Tier One,,,"Action, Simulation, Free To Play","7 Dec, 2021",65
+377470,ENKI,10.89,BRL,"Adventure, Indie","31 Jul, 2015",43
+377480,N.E.R.O.: Nothing Ever Remains Obscure,16.99,BRL,"Adventure, Indie","29 Apr, 2016",59
+377840,FINAL FANTASY IX,15.79,BRL,RPG,"14 Apr, 2016",84
+377860,Mushihimesama,59.99,BRL,Action,"12 Nov, 2015",86
+377870,DARIUSBURST Chronicle Saviours,134.99,BRL,Action,"3 Dec, 2015",80
+383870,Firewatch,25.99,CAD,"Adventure, Indie","9 Feb, 2016",81
+386620,"Cook, Serve, Delicious! 2!!",25.99,BRL,"Action, Indie, Simulation, Strategy","13 Sep, 2017",62
+387010,FIVE: Guardians of David,19.99,BRL,"Action, Adventure, RPG","24 Nov, 2015",66
+387290,Ori and the Blind Forest: Definitive Edition,99.0,BRL,Action,"27 Apr, 2016",88
+387380,Sylvio Demo,,,"Adventure, Indie","16 Jul, 2015",60
+388060,The Escapists: The Walking Dead,9.19,BRL,"Indie, Strategy","30 Sep, 2015",66
+388090,Five Nights at Freddy's 4,16.59,BRL,"Action, Indie, Strategy","23 Jul, 2015",51
+388210,Day of the Tentacle Remastered,27.99,BRL,Adventure,"21 Mar, 2016",86
+388320,1979 Revolution: Black Friday,20.69,BRL,"Action, Adventure, Indie","4 Apr, 2016",80
+388420,In Between,23.99,BRL,Indie,"21 Aug, 2015",68
+388520,Call of Duty®: Black Ops III,329.9,BRL,"Action, Adventure","5 Nov, 2015",73
+388880,Oxenfree,12.99,CAD,"Adventure, Indie","14 Jan, 2016",80
+389140,Horizon Chase Turbo,49.99,BRL,"Action, Casual, Indie, Racing, Sports","15 May, 2018",76
+391220,Rise of the Tomb Raider™,2.99,USD,"Action, Adventure","9 Feb, 2016",86
+392110,ENDLESS™ Space 2,39.99,EUR,Strategy,"18 May, 2017",80
+393520,Iconoclasts,19.5,EUR,"Action, Adventure, Indie","23 Jan, 2018",87
+394360,Hearts of Iron IV,14.99,EUR,"Simulazione, Strategia",6 giu 2016,83
+397340,SimplePlanes,41.99,BRL,"Indie, Simulation","17 Dec, 2015",69
+397350,Lords of the Realm II,10.49,BRL,"RPG, Strategy","3 Dec, 2015",77
+397540,Borderlands 3,119.9,BRL,"Action, RPG","13 Mar, 2020",81
+397550,Deus Ex: Revision,,,"Action, Adventure, RPG","13 Oct, 2015",90
+397950,Clustertruck,46.99,BRL,"Action, Indie","27 Sep, 2016",76
+398180,Euclidean,10.49,BRL,"Action, Casual, Indie","25 Sep, 2015",62
+398640,Bowl Bound College Football,59.99,BRL,"Simulation, Sports, Strategy","3 Sep, 2015",80
+398850,Epistory - Typing Chronicles,14.99,EUR,"Action, Adventure, Indie","30 Mar, 2016",74
+398860,STASIS Deluxe Edition Upgrade,6.99,BRL,Adventure,"21 Sep, 2015",79
+400110,Else Heart.Break(),73.99,BRL,"Adventure, Indie, RPG","24 Sep, 2015",79
+400160,Concrete Jungle,23.5,BRL,"Indie, Strategy","23 Sep, 2015",76
+400170,The Incredible Adventures of Van Helsing: Final Cut,121.99,BRL,"Action, Adventure, Indie, RPG","6 Nov, 2015",79
+400180,Okhlos: Omega,41.99,BRL,"Action, Indie, Strategy","18 Aug, 2016",69
+403640,Dishonored 2,29.99,USD,Action,"11 Nov, 2016",86
+404012,Total War: WARHAMMER - Call of the Beastmen,66.99,PLN,"Action, Strategy","28 Jul, 2016",72
+406720,Alekhine's Gun,46.99,BRL,"Action, Adventure","11 Mar, 2016",40
+406850,Crush Your Enemies,32.99,BRL,"Action, Indie, Strategy","13 Jul, 2016",63
+407040,2064: Read Only Memories Demo,,,"Adventure, Indie","5 Oct, 2015",80
+407810,Hard Reset Redux,5.99,BRL,"Action, Adventure","3 Jun, 2016",73
+408120,Cibele,29.99,BRL,Indie,"2 Nov, 2015",71
+408250,Eagle Flight,59.99,BRL,"Action, Simulation","20 Dec, 2016",74
+408400,Swords and Sorcery - Underworld - Definitive Edition,20.69,BRL,"Adventure, Indie, RPG","15 Dec, 2015",66
+408520,FORM,27.99,BRL,"Adventure, Casual, Indie","1 Jun, 2017",81
+408530,FORM - Episode 1 Demo,,,"Adventure, Casual, Indie","5 Dec, 2017",81
+408640,Code of Princess,46.99,BRL,"Action, Adventure, RPG","14 Apr, 2016",53
+408760,Pro Cycling Manager 2016,29.9,BRL,"Simulation, Sports","16 Jun, 2016",64
+408920,Krai Mira: post-apocalyptic Crimea,20.69,BRL,"Adventure, Indie, RPG","11 Jul, 2016",50
+408960,Zombasite,59.99,BRL,"Action, Indie, RPG","23 Aug, 2016",66
+410110,12 is Better Than 6,1.99,USD,"Action, Indie","Nov 20, 2015",74
+411300,ELEX,7.49,USD,"Action, Adventure, RPG","17 Oct, 2017",67
+412830,STEINS;GATE,33.99,CAD,Adventure,"8 Sep, 2016",87
+413150,Stardew Valley,14.99,USD,"Indie, RPG, Simulation","26 Feb, 2016",89
+413410,Danganronpa: Trigger Happy Havoc,19.99,EUR,Adventure,"18 Feb, 2016",82
+415200,Motorsport Manager,19.99,USD,"Racing, Simulation, Sports, Strategy","Nov 9, 2016",81
+417290,Ghost of a Tale,59.99,BRL,"Action, Adventure, Indie, RPG","13 Mar, 2018",75
+417880,Everybody's Gone to the Rapture,74.9,BRL,"Adventure, Casual, Indie","14 Apr, 2016",76
+418180,Tempest: Pirate Action RPG,16.44,BRL,"Action, Indie, RPG","22 Aug, 2016",60
+418240,Shadow Tactics: Blades of the Shogun,49.99,CAD,"Indie, Strategy","6 Dec, 2016",85
+418250,Polaris Sector,107.99,BRL,"Simulation, Strategy","22 Mar, 2016",76
+418370,Resident Evil 7 Biohazard,35.6,BRL,"Action, Adventure","23 Jan, 2017",83
+418460,Rising Storm 2: Vietnam,24.99,USD,"Action, Massively Multiplayer, Simulation, Strategy","May 30, 2017",81
+418530,Spelunky 2,37.99,BRL,"Action, Indie","29 Sep, 2020",91
+419060,Chaos Reborn Demo,,,"Indie, Strategy","20 Nov, 2015",85
+419460,"That Dragon, Cancer",19.99,BRL,"Adventure, Indie","11 Jan, 2016",78
+419480,Starpoint Gemini Warlords,81.5,BRL,"Action, RPG, Simulation, Strategy","23 May, 2017",73
+420060,Candle,2.54,BRL,"Adventure, Indie","11 Nov, 2016",80
+420610,Cities: Skylines - Snowfall,12.99,EUR,"Simulation, Strategy","18 Feb, 2016",72
+424840,Little Nightmares,19.99,EUR,Adventure,"27 Apr, 2017",81
+427520,Factorio,35.0,USD,"Casual, Indie, Simulation, Strategy","14 Aug, 2020",90
+429530,Falcon 4.0,46.99,BRL,Simulation,"8 Jan, 2016",85
+429630,Wuppo Demo,,,"Action, Adventure, Indie, RPG","29 Aug, 2016",78
+429660,Tales of Berseria™,49.99,USD,"Action, RPG","26 Jan, 2017",80
+429680,Spellweaver,,,"Free To Play, Indie, Massively Multiplayer, Strategy","1 Feb, 2016",63
+430410,Memoranda,27.99,BRL,"Adventure, Indie","25 Jan, 2017",58
+431250,Mushroom Wars,19.99,BRL,"Action, Indie, Strategy","7 Apr, 2016",80
+431650,Phoning Home,,,"Action, Adventure, Indie","7 Feb, 2017",61
+433340,Slime Rancher,0.89,USD,"Action, Adventure, Indie, Simulation","1 Aug, 2017",81
+433850,Z1 Battle Royale,,,"Action, Adventure, Free To Play, Massively Multiplayer","28 Feb, 2018",70
+440550,Atomik: RunGunJumpGun,26.49,BRL,"Action, Indie","31 Aug, 2016",82
+440880,The Count Lucanor,29.99,BRL,"Adventure, Indie, RPG","3 Mar, 2016",78
+441680,Obscuritas,75.0,BRL,Adventure,"17 Mar, 2016",63
+441960,American Truck Simulator Demo,,,"Indie, Simulation","9 Feb, 2016",76
+441990,Cobalt Demo,,,"Action, Adventure, Indie","11 Mar, 2016",69
+442120,Pinball FX3,,,Simulation,"26 Sep, 2017",89
+447820,Day of Infamy,3.74,USD,"Action, Indie, Strategy","Mar 23, 2017",77
+449610,Monster Boy and the Cursed Kingdom,38.99,CAD,"Action, Adventure, Indie","25 Jul, 2019",82
+451310,A Fold Apart,32.99,BRL,"Adventure, Indie, Strategy","16 Apr, 2020",77
+451380,The Darkside Detective Demo,,,Adventure,"30 Jun, 2016",77
+451570,Demetrios - The BIG Cynical Adventure,19.99,BRL,"Adventure, Casual, Indie","31 May, 2016",72
+452280,Factorio Demo,,,"Casual, Indie, Simulation, Strategy","24 Mar, 2016",90
+452340,Ian's Eyes,,,"Adventure, Indie","1 Sep, 2016",36
+452410,Damsel,17.99,BRL,"Action, Indie","19 Oct, 2018",65
+452420,Koihime Enbu,16.99,BRL,Action,"19 May, 2016",68
+452530,Sunless Sea - Zubmariner,21.99,BRL,"Adventure, Indie, RPG","11 Oct, 2016",78
+452570,Battle Chef Brigade Deluxe,37.99,BRL,"Action, Adventure, Indie, RPG","20 Nov, 2017",80
+453020,Hyper Light Drifter Original Soundtrack,10.49,BRL,"Action, RPG","12 Apr, 2016",84
+453090,Parkitect,88.99,BRL,"Casual, Indie, Simulation, Strategy","29 Nov, 2018",83
+453310,Blackwood Crossing,29.99,BRL,"Adventure, Indie","4 Apr, 2017",70
+454160,Dark Fear,8.39,BRL,"Adventure, Indie, RPG","22 Jun, 2016",66
+456670,Hand of Fate 2,29.99,CAD,"Action, Indie, RPG","7 Nov, 2017",80
+462770,Pyre,59.99,BRL,"Action, Indie, RPG","25 Jul, 2017",82
+463170,Jagged Alliance: Rage!,64.99,BRL,"Adventure, RPG, Simulation, Strategy","6 Dec, 2018",59
+464060,RUINER,59.99,BRL,"Action, Indie","26 Sep, 2017",75
+464150,Regalia: Of Men and Monarchs,37.99,BRL,"Indie, RPG, Simulation, Strategy","18 May, 2017",73
+464880,Stars in Shadow,11.09,BRL,"Indie, Strategy","19 Jan, 2017",75
+464920,Surviving Mars,107.99,BRL,"Simulation, Strategy","15 Mar, 2018",76
+466560,Northgard,4.79,USD,"Adventure, Indie, Simulation, Strategy","7 Mar, 2018",81
+469820,Genital Jousting,6.99,USD,"Action, Indie","Jan 18, 2018",68
+477160,Human Fall Flat,11.39,BRL,"Adventure, Casual, Indie, Simulation","22 Jul, 2016",70
+477740,Zero Escape: The Nonary Games,24.99,EUR,Adventure,"24 Mar, 2017",86
+477770,Ride 2,124.5,BRL,"Racing, Simulation, Sports","7 Oct, 2016",67
+479060,WildStar: Captain's Pack,,,"Massively Multiplayer, RPG","23 Jun, 2016",82
+479061,WildStar: Cute & Cuddly Pack,,,"Massively Multiplayer, RPG","23 Jun, 2016",82
+479110,Hunter's Legacy,13.99,BRL,"Action, Adventure, Indie","19 Jul, 2016",58
+480430,Hide and Shriek,,,"Action, Free To Play","19 Oct, 2017",68
+480470,Blacksea Odyssey Demo,,,"Action, Free To Play, Indie","25 May, 2016",74
+481110,The Bunker,7.04,BRL,"Adventure, Indie","20 Sep, 2016",57
+481510,Night in the Woods,59.99,BRL,Adventure,"21 Feb, 2017",88
+482370,Hunter's Legacy Demo,,,"Action, Adventure, Indie","3 Jun, 2016",58
+482450,Nitroplus Blasterz: Heroines Infinite Duel,37.99,BRL,Action,"8 Dec, 2016",63
+484900,Aven Colony,31.98,BRL,"Indie, Simulation, Strategy","25 Jul, 2017",65
+489830,The Elder Scrolls V: Skyrim Special Edition,53.49,CAD,RPG,"27 Oct, 2016",74
+493180,Dynasty Feud,,,"Action, Indie","23 May, 2017",68
+493200,RiME,55.99,BRL,Adventure,"26 May, 2017",78
+493340,Planet Coaster,81.99,BRL,"Action, Adventure, Casual, Simulation, Strategy","17 Nov, 2016",84
+493520,GTFO,44.99,CAD,Action,"9 Dec, 2021",78
+493530,Layers of Fear: Inheritance,10.49,BRL,"Adventure, Indie","2 Aug, 2016",70
+493540,Figment,36.99,BRL,"Action, Adventure, Casual, Indie","22 Sep, 2017",77
+493840,Marvel vs. Capcom: Infinite,33.8,BRL,Action,"19 Sep, 2017",69
+493860,The Silver Case Demo,,,"Adventure, Free To Play","8 Aug, 2016",64
+493900,Dungeons 3,139.0,BRL,"Simulation, Strategy","13 Oct, 2017",75
+494100,ENIGMA:,23.49,BRL,"Adventure, Indie","15 Nov, 2016",56
+494170,Miniature Garden,59.99,BRL,"Adventure, Casual, Indie","30 Mar, 2017",66
+494340,Don't Knock Twice Demo,,,Action,"24 Oct, 2016",56
+494670,TransRoad: USA,59.99,BRL,"Casual, Simulation, Strategy","9 Nov, 2017",53
+495420,State of Decay 2: Juggernaut Edition,29.99,USD,"Action, RPG, Simulation","Mar 13, 2020",69
+503400,Four Last Things,29.99,BRL,"Adventure, Indie","23 Feb, 2017",83
+503560,911 Operator,27.99,BRL,"Casual, Indie, Simulation, Strategy","24 Feb, 2017",68
+503620,Fictorum,20.69,BRL,"Action, Indie, RPG","9 Aug, 2017",64
+503810,Ian's Eyes Demo,,,"Adventure, Indie","20 Jul, 2016",36
+503940,Railway Empire,139.0,BRL,"Simulation, Strategy","26 Jan, 2018",74
+504230,Celeste,59.99,BRL,"Action, Adventure, Indie","25 Jan, 2018",88
+504370,Battlerite,,,"Action, Free To Play","8 Nov, 2017",85
+504920,39 Days to Mars,40.19,BRL,"Adventure, Indie","25 Apr, 2018",71
+505330,Apocalipsis,23.5,BRL,"Adventure, Casual, Indie","28 Feb, 2018",73
+505640,Antihero,46.99,BRL,"Indie, Strategy","10 Jul, 2017",81
+505740,Eximius: Seize the Frontline,59.99,BRL,"Action, Strategy","16 Mar, 2021",53
+506510,Shadows of Adam,27.99,BRL,"Indie, RPG","23 Feb, 2017",78
+506610,Five Nights at Freddy's: Sister Location,16.59,BRL,"Action, Indie, Simulation","7 Oct, 2016",62
+506900,Downward: Enhanced Edition,17.99,BRL,"Adventure, Indie","13 Jul, 2017",77
+514080,Deadly Dozen,19.99,BRL,"Action, Adventure, Casual, Simulation, Sports, Strategy","26 Jan, 2017",56
+514140,Elite Warriors: Vietnam,19.99,BRL,Action,"2 Feb, 2017",46
+514150,Line of Sight: Vietnam,19.99,BRL,Action,"1 Dec, 2016",68
+514310,SENRAN KAGURA Bon Appétit! - Full Course,37.99,BRL,Casual,"10 Nov, 2016",62
+514340,Aliens Go Home Run,8.39,BRL,"Action, Indie","27 Jan, 2017",84
+515180,Bus Simulator 18,73.99,BRL,Simulation,"13 Jun, 2018",67
+515191,Cities: Skylines - Natural Disasters,14.99,EUR,"Simulazione, Strategia",29 nov 2016,80
+515960,Martha Is Dead,57.99,BRL,"Adventure, Indie","24 Feb, 2022",73
+516110,ToeJam & Earl: Back in the Groove!,28.99,BRL,"Adventure, Casual, Indie","28 Feb, 2019",76
+516580,DYSTORIA,37.99,BRL,"Action, Casual, Indie, Racing, Strategy","20 Feb, 2017",72
+517630,Just Cause 4 Reloaded,,,"Action, Adventure","4 Dec, 2018",68
+519860,DUSK,8.49,CAD,"Action, Indie","10 Dec, 2018",88
+523210,A Normal Lost Phone,7.99,BRL,"Casual, Indie","26 Jan, 2017",71
+523650,Lust for Darkness,27.99,BRL,"Adventure, Indie","12 Jun, 2018",50
+523780,Emily is Away Too,10.49,BRL,"Adventure, Casual, Indie, RPG, Simulation","26 May, 2017",81
+524220,NieR:Automata™,18.72,CAD,"Action, RPG","17 Mar, 2017",84
+526870,Satisfactory,42000.0,KRW,"Adventure, Indie, Simulation, Strategy","10 Sep, 2024",91
+531180,AIRHEART - Tales of broken Wings,27.99,BRL,"Action, Indie","23 Jul, 2018",62
+531210,Unbox Demo,,,"Action, Adventure, Indie","21 Sep, 2016",68
+531220,Splasher Demo,,,,"27 Sep, 2017",79
+532110,Rusty Lake: Roots,13.79,BRL,"Adventure, Indie","20 Oct, 2016",75
+532270,Lethal VR,26.9,BRL,"Action, Simulation","8 Nov, 2016",66
+532290,Dark Train,20.69,BRL,"Adventure, Indie","25 Oct, 2016",77
+532840,CAYNE,,,"Adventure, Indie, Free To Play","24 Jan, 2017",75
+535930,Two Point Hospital,29.99,USD,"Indie, Simulation","Aug 29, 2018",83
+540210,Redie Demo,,,"Violent, Gore, Action, Indie","1 Dec, 2016",79
+541310,Tiny Thor,59.99,BRL,"Action, Adventure, Indie","5 Jun, 2023",75
+542050,Forgotton Anne,37.99,BRL,"Action, Adventure, Casual, Indie","15 May, 2018",76
+542810,Dex Demo,,,"Violent, Action, Adventure, Indie, RPG","30 Mar, 2017",62
+543010,Bush Hockey League,23.99,BRL,"Violent, Sports","28 Mar, 2017",48
+543080,Orwell Demo,,,"Adventure, Indie, Simulation","20 Oct, 2016",77
+547502,Cities: Skylines - Mass Transit,12.99,USD,"Simulation, Strategy","May 18, 2017",78
+548430,Deep Rock Galactic,29.99,EUR,Action,"13 May, 2020",85
+548570,RAGE 2,39.99,EUR,Action,"13 May, 2019",73
+551700,Gunheart,10.49,BRL,"Action, Indie","4 Jun, 2018",83
+551730,Toukiden 2,34.97,BRL,Action,"21 Mar, 2017",73
+551770,ECHO,45.99,BRL,"Action, Adventure, Indie","19 Sep, 2017",72
+552500,Warhammer: Vermintide 2,88.99,BRL,"Action, Indie, RPG","8 Mar, 2018",82
+552590,The Sexy Brutale,36.99,BRL,"Adventure, Indie","11 Apr, 2017",83
+552620,ATOM RPG: Post-apocalyptic indie game,46.99,BRL,RPG,"19 Dec, 2018",70
+552990,World of Warships,,,"Action, Massively Multiplayer, Simulation, Strategy, Free To Play","15 Nov, 2017",81
+557340,My Friend Pedro,25.99,CAD,"Action, Indie","20 Jun, 2019",81
+560130,Pillars of Eternity II: Deadfire,74.0,BRL,RPG,"8 May, 2018",88
+562040,Men of War: Assault Squad 2,88.99,BRL,"Action, Simulation, Strategy","15 May, 2014",68
+562500,Warstone TD,7.24,BRL,"Indie, Strategy","23 May, 2018",70
+570710,Extinction,57.99,BRL,"Action, Adventure","9 Apr, 2018",51
+570940,DARK SOULS™: REMASTERED,24.99,USD,Action,"23 May, 2018",84
+571310,SteamWorld Dig 2,37.99,BRL,"Action, Adventure, Indie","22 Sep, 2017",85
+571480,Scrap Garden Demo,,,"Action, Adventure, Indie","20 Dec, 2016",58
+571880,Angels with Scaly Wings™ / 鱗羽の天使,29.99,BRL,"Adventure, Indie, RPG, Simulation","31 Jan, 2017",67
+572050,Call to Power II,32.9,BRL,Strategy,"18 Apr, 2017",72
+572410,Steel Division: Normandy 44,71.99,BRL,"Action, Simulation, Strategy","23 May, 2017",83
+572430,Party Hard 2,59.99,BRL,"Action, Adventure, Indie, Simulation, Strategy","25 Oct, 2018",74
+572740,Nancy Drew®: The Secret of Shadow Ranch,20.69,BRL,Adventure,"9 Jan, 2017",68
+572890,Pikuniku,16.99,CAD,"Action, Adventure, Casual, Indie","24 Jan, 2019",74
+573100,Battlefleet Gothic: Armada 2,74.9,BRL,Strategy,"24 Jan, 2019",77
+573120,Dead In Vinland,59.99,BRL,"Adventure, Indie, RPG, Simulation, Strategy","12 Apr, 2018",74
+573130,Aporia: Beyond The Valley,31.99,BRL,"Adventure, Indie","19 Jul, 2017",71
+573410,AI War 2,14.99,BRL,"Indie, Simulation, Strategy","22 Oct, 2019",75
+581270,Old Man's Journey,17.99,BRL,"Adventure, Casual, Indie","17 May, 2017",76
+581320,Insurgency: Sandstorm,99.9,BRL,Action,"12 Dec, 2018",78
+581660,Super Meat Boy Forever,37.99,BRL,"Action, Adventure, Indie","10 Jan, 2022",70
+582010,Monster Hunter: World,42.57,BRL,Action,"8 Aug, 2018",88
+582270,Everything,27.99,BRL,"Casual, Indie, RPG, Simulation","21 Apr, 2017",78
+582660,Black Desert,17.46,BRL,"Action, Adventure, Massively Multiplayer, RPG, Strategy","15 Nov, 2017",80
+584400,Sonic Mania,26.99,CAD,"Action, Adventure, Casual","29 Aug, 2017",84
+590380,Into the Breach,28.99,BRL,"Indie, RPG, Simulation, Strategy","27 Feb, 2018",90
+590690,Sprint Vector,55.99,BRL,"Action, Indie, Racing, Sports","8 Feb, 2018",84
+591460,Parkasaurus,73.99,BRL,"Simulation, Strategy","12 Aug, 2020",70
+591630,Candleman: The Complete Journey,28.99,BRL,"Action, Adventure, Indie, RPG","31 Jan, 2018",76
+591750,Solo,28.99,BRL,"Adventure, Indie","26 Apr, 2018",77
+592480,Knights And Bikes,11.39,CAD,"Action, Adventure, Indie","26 Aug, 2019",79
+592580,PRO EVOLUTION SOCCER 2018,,,Sports,"13 Sep, 2017",81
+594570,Total War: WARHAMMER II,59.99,EUR,"Akció, Stratégia",2017. szept. 28.,87
+594650,Hunt: Showdown 1896,17.99,CAD,Action,"27 Aug, 2019",81
+597760,Yuppie Psycho: Executive Edition,16.19,EUR,"Adventure, Indie","25 Apr, 2019",81
+599140,Graveyard Keeper,25.0,HKD,"Adventure, Indie, RPG, Simulation","15 Aug, 2018",69
+600130,Valfaris,9.49,BRL,"Action, Indie","10 Oct, 2019",86
+600370,Paradigm,14.99,USD,"Adventure, Indie","Apr 5, 2017",85
+600480,Megaquarium,24.99,USD,"Casual, Indie, Simulation, Strategy","Sep 13, 2018",69
+600990,The Gardens Between,47.99,BRL,"Adventure, Indie","19 Sep, 2018",80
+601150,Devil May Cry 5,9.89,USD,Action,"Mar 7, 2019",89
+601430,The Evil Within 2,155.0,BRL,"Action, Adventure","12 Oct, 2017",80
+601840,Griftlands,37.99,BRL,Indie,"1 Jun, 2021",84
+602070,Plasma Puncher,5.99,USD,"Action, Casual, Indie","May 11, 2017",69
